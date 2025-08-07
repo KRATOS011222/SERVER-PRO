@@ -3023,6 +3023,7 @@
       "cooked_mutton": "2025-08-01 23:00:29 +0000",
       "bread": "2025-08-01 19:59:19 +0000",
       "golden_apple": "2025-08-05 15:12:47 +0000",
+      "golden_carrot": "2025-08-07 20:11:53 +0000",
       "enchanted_golden_apple": "2025-08-06 20:25:17 +0000",
       "carrot": "2025-08-04 00:39:51 +0000"
     },
@@ -9093,6 +9094,18 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-08-07 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-08-07 20:10:20 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-08-07 20:11:35 +0000"
     },
     "done": true
   },

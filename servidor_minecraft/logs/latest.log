@@ -1590,3 +1590,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 20:06:43.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
 [07Aug2025 20:07:01.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [07Aug2025 20:07:32.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[07Aug2025 20:08:59.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[07Aug2025 20:10:20.585] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Free Willy]
+[07Aug2025 20:11:18.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
+[07Aug2025 20:11:35.446] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Heliomancer]
+[07Aug2025 20:12:44.031] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[07Aug2025 20:12:44.047] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[07Aug2025 20:12:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was shot by grillo1320
+[07Aug2025 20:17:41.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4867ms or 97 ticks behind
+[07Aug2025 20:18:05.509] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Silence of the Forest]
+[07Aug2025 20:18:05.510] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Time To Even The Scales]
+[07Aug2025 20:18:20.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind

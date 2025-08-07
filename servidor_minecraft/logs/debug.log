@@ -23645,3 +23645,116 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 20:06:43.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
 [07Aug2025 20:07:01.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [07Aug2025 20:07:32.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[07Aug2025 20:08:59.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[07Aug2025 20:09:58.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:20.585] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Free Willy]
+[07Aug2025 20:10:20.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:20.754] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.296] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:23.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:24.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:24.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:24.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:25.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:25.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:25.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:25.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:29.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:29.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:29.836] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:29.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:29.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:30.189] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:35.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.435] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.483] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.531] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.582] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.632] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.685] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:35.740] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:10:37.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:38.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:10:43.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 20:10:43.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 20:11:15.368] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/storage is being run through DFU (hash acff26d1be40bf88d3f0b80c86f9bb5cbcb9ade055008d96d153ed605c0ea7cd), this will cause launch time delays
+[07Aug2025 20:11:15.653] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3_alt is being run through DFU (hash d8b4ceaa3939a3d7ab19fb1c421bbd5847fd932e9a4cfaceb185f6b5f0e4eb6b), this will cause launch time delays
+[07Aug2025 20:11:15.816] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel1 is being run through DFU (hash 2fde4ac5dd46c086d149fa2b989e34f54bf6668a7f896d77d8e3f2b7969008de), this will cause launch time delays
+[07Aug2025 20:11:15.821] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs1 is being run through DFU (hash 573d4031bfa8b1efdebb1744cf2a84997ca75965bd2ff89984f3d111185cb1f8), this will cause launch time delays
+[07Aug2025 20:11:15.825] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel2 is being run through DFU (hash 6231b305a8bd2bc07639cd15e7eae9fc639b4952c1eb5cd82d732c8bac5f7385), this will cause launch time delays
+[07Aug2025 20:11:15.830] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/light2 is being run through DFU (hash e47784b770d519e75b0d3230445b47157ab698537f5f12bfddfe3eae05370127), this will cause launch time delays
+[07Aug2025 20:11:15.834] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w2 is being run through DFU (hash fac036faabddaab41f3fa0dce921d46ec7498c88cddf74ec33db42758814964d), this will cause launch time delays
+[07Aug2025 20:11:15.838] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/light1 is being run through DFU (hash 14cdf883bd4c3b81e1aafe9f1841a71c3a362f41e890a6b8db10cbf6dc6888a6), this will cause launch time delays
+[07Aug2025 20:11:15.842] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/odd_treasure is being run through DFU (hash 6c25b5187eac6373c48db213bc10e6a452cf10498e576f89ad7ae2288334c7e8), this will cause launch time delays
+[07Aug2025 20:11:15.851] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/strider_pen is being run through DFU (hash c50717c3bee264bd51a2086ed2d85c64fc418d915f689ceb065e010a13aba0b2), this will cause launch time delays
+[07Aug2025 20:11:15.873] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/blacksmith is being run through DFU (hash a37ff30e340fa862095e92544b6557a5e3b23ebe17f7d87c5d2a771e0ffd8a2d), this will cause launch time delays
+[07Aug2025 20:11:16.063] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/statues/king_ruined1 is being run through DFU (hash d20500e6a0a0fcad89727b68c6124859c1241463629e4f1216d175867283e4d9), this will cause launch time delays
+[07Aug2025 20:11:16.150] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate3 is being run through DFU (hash 486c4e3ede277965a67ad50569949ed5f8674eb2f4c0fc1dfee0181e79954a92), this will cause launch time delays
+[07Aug2025 20:11:16.178] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove6 is being run through DFU (hash 9e2dc7d3dda776dc443966bbdefcf5cff6aa094ce44aebc53704432d200b58ef), this will cause launch time delays
+[07Aug2025 20:11:16.247] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs3 is being run through DFU (hash fa66a3b8e3a6a91927a2ec56e72294b1f846210b30500b51cde7d28eee6d81a0), this will cause launch time delays
+[07Aug2025 20:11:16.251] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c3 is being run through DFU (hash 26b2cfd974a4820739a885bc38fbeb62c89923465bbd3dcd5b276cb7da8f5cb0), this will cause launch time delays
+[07Aug2025 20:11:16.254] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w3 is being run through DFU (hash dbdefe508b7912c03ccd373bc196490c328d485864bbf852242f4b5a98344416), this will cause launch time delays
+[07Aug2025 20:11:16.256] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs2 is being run through DFU (hash 4f0b1e3fcf4fde6fd70e0a4b37ee1347c279cd45a4b01b9e11ba3ea6299572c7), this will cause launch time delays
+[07Aug2025 20:11:16.258] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove10 is being run through DFU (hash b53615fd2e41f15bd4f0171b01d1d8a578ec500b14b680b1955da0c3186cf569), this will cause launch time delays
+[07Aug2025 20:11:16.261] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pigstep is being run through DFU (hash 2c3c9f51ce1fc6f07424b0cb4c21f879b5615a1e5636a4f252e586060269ce50), this will cause launch time delays
+[07Aug2025 20:11:16.272] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool4 is being run through DFU (hash 13437ca3f2a07ca102d5f073b12b2c7a41ed6ce319f77ee7170789af8eb2c1e5), this will cause launch time delays
+[07Aug2025 20:11:16.288] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/blacksmith is being run through DFU (hash 3b782db9eca85451f3ee97e0f9e2cd2f529d602f0286988d084761ba2f535c97), this will cause launch time delays
+[07Aug2025 20:11:16.298] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_guard is being run through DFU (hash b4f0888d665fc61862e3ede764fa215fdfdfa8b5a93e2179acb159e4e573726e), this will cause launch time delays
+[07Aug2025 20:11:16.311] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1_hoglin is being run through DFU (hash 127513bb46e7cea9b392f0a53a1b1cad6ba9b80c419c1ff0bad8c7e6544486e3), this will cause launch time delays
+[07Aug2025 20:11:16.322] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq1 is being run through DFU (hash df369eb9c1e515ef6f6b908ecb55b545864d1abc4c417ad2ae8d48ac4d3cfb5b), this will cause launch time delays
+[07Aug2025 20:11:16.363] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1_w is being run through DFU (hash d015463916324afba2105e16015bfc3fb73411f4394ced54b802bd1e794358e1), this will cause launch time delays
+[07Aug2025 20:11:16.368] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1 is being run through DFU (hash a591b31fc9becf533efc6d556150c2cf6ba988647f7ae6574253e6a064a254bf), this will cause launch time delays
+[07Aug2025 20:11:16.372] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table2 is being run through DFU (hash 61f5a12b8c2bcc5e7e94b867718753453b42408b1c64bf1076605bf3c5e9e685), this will cause launch time delays
+[07Aug2025 20:11:16.382] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_8 is being run through DFU (hash 7f8289537156aa830c6cc5b273938cfd329495fe2e82f3da24b04be79a868c19), this will cause launch time delays
+[07Aug2025 20:11:16.396] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_2 is being run through DFU (hash 85fd3ed0ea8cff4f3a79530b3c73bc28968d6ef5f3b8c6e5facfb61a66a9ab71), this will cause launch time delays
+[07Aug2025 20:11:18.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
+[07Aug2025 20:11:35.446] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Heliomancer]
+[07Aug2025 20:12:36.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:12:37.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:12:39.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:12:44.031] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[07Aug2025 20:12:44.047] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[07Aug2025 20:12:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was shot by grillo1320
+[07Aug2025 20:12:53.063] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:51, y:63, z:-5701, dim:minecraft:overworld]
+[07Aug2025 20:12:54.450] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[07Aug2025 20:13:19.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:13:20.335] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:13:20.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:15:46.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 20:15:46.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 20:15:57.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:15:57.535] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:15:57.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:15:57.631] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:15:57.686] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 20:16:10.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 20:17:36.514] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[07Aug2025 20:17:36.523] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[07Aug2025 20:17:36.532] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[07Aug2025 20:17:39.488] [Server thread/DEBUG] [twilightforest/]: Did not find ideal portal spot, shooting for okay one for SUPATA123
+[07Aug2025 20:17:39.493] [Server thread/DEBUG] [twilightforest/]: Found okay portal spot for SUPATA123 at BlockPos{x=277, y=4, z=-45753}
+[07Aug2025 20:17:39.736] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=44, y=62, z=-5710}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=277, y=4, z=-45753}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=44, y=62, z=-5710}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=43, y=62, z=-5709}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=44, y=62, z=-5709}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=43, y=62, z=-5708}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=45, y=62, z=-5710}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=44, y=62, z=-5708}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=45, y=62, z=-5709}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=45, y=62, z=-5708}
+[07Aug2025 20:17:39.745] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=43, y=62, z=-5710}
+[07Aug2025 20:17:41.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4867ms or 97 ticks behind
+[07Aug2025 20:18:05.509] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Silence of the Forest]
+[07Aug2025 20:18:05.510] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Time To Even The Scales]
+[07Aug2025 20:18:20.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
