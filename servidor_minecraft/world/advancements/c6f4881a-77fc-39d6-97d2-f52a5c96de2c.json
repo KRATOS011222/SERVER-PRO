@@ -10546,6 +10546,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/misc/magenta_dye_from_mulberry": {
+    "criteria": {
+      "has_mulberry": "2025-08-07 18:22:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-08-07 16:48:38 +0000"
