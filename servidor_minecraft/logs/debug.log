@@ -22427,3 +22427,206 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 19:15:06.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [07Aug2025 19:15:15.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
 [07Aug2025 19:15:15.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[07Aug2025 19:19:16.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 19:19:16.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 19:19:21.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 19:19:24.930] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:24.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.028] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.135] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.173] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.228] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.273] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.473] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.533] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.625] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.674] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.725] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.774] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.828] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.934] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:25.983] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.041] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.126] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.174] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.275] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.473] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 19:19:26.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.575] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.684] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.728] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.777] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.825] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.874] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.925] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:26.981] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.032] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.074] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.124] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.172] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.324] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.424] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.473] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.522] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.780] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.839] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.874] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.934] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:27.983] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.031] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.126] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.173] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.484] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.524] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.676] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.727] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.782] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.827] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:19:28.876] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:20:23.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 19:20:24.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 19:20:25.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 19:20:26.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[07Aug2025 19:22:43.545] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[07Aug2025 19:22:43.585] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[07Aug2025 19:22:52.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 tried to swim in lava
+[07Aug2025 19:22:52.481] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:107, y:65, z:-229, dim:minecraft:the_nether]
+[07Aug2025 19:22:55.753] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[07Aug2025 19:24:12.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[07Aug2025 19:24:12.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[07Aug2025 19:24:13.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[07Aug2025 19:24:13.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[07Aug2025 19:24:13.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[07Aug2025 19:24:13.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[07Aug2025 19:24:13.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[07Aug2025 19:24:13.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[07Aug2025 19:24:14.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l2
+[07Aug2025 19:24:14.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l2
+[07Aug2025 19:24:14.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_main
+[07Aug2025 19:24:14.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l2
+[07Aug2025 19:24:14.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_2x1
+[07Aug2025 19:24:14.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/staircase
+[07Aug2025 19:24:14.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l3
+[07Aug2025 19:24:14.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l3
+[07Aug2025 19:24:14.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l3
+[07Aug2025 19:24:14.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/sentry_lab
+[07Aug2025 19:24:14.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/shock_troop
+[07Aug2025 19:24:14.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/coolant_room
+[07Aug2025 19:24:14.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_1x1
+[07Aug2025 19:24:14.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/archer
+[07Aug2025 19:24:14.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight
+[07Aug2025 19:24:14.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_gold
+[07Aug2025 19:24:14.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_2
+[07Aug2025 19:24:14.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15_compat
+[07Aug2025 19:24:14.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15
+[07Aug2025 19:24:14.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/dining
+[07Aug2025 19:24:14.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/crossroads1
+[07Aug2025 19:24:14.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_10
+[07Aug2025 19:24:14.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/trap_room
+[07Aug2025 19:24:14.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/portal
+[07Aug2025 19:24:14.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/crimson_greenhouse
+[07Aug2025 19:24:14.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_corner
+[07Aug2025 19:24:14.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/kitchen
+[07Aug2025 19:24:14.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_netherite
+[07Aug2025 19:24:14.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15w
+[07Aug2025 19:24:14.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short2
+[07Aug2025 19:24:14.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/pyro
+[07Aug2025 19:24:14.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_gate
+[07Aug2025 19:24:14.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_1
+[07Aug2025 19:24:14.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d1
+[07Aug2025 19:24:14.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small3
+[07Aug2025 19:24:14.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small2
+[07Aug2025 19:24:14.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table1
+[07Aug2025 19:24:14.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing
+[07Aug2025 19:24:14.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor4
+[07Aug2025 19:24:14.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor2
+[07Aug2025 19:24:14.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor1
+[07Aug2025 19:24:14.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d2
+[07Aug2025 19:24:14.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_backup
+[07Aug2025 19:24:14.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor6
+[07Aug2025 19:24:14.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor3
+[07Aug2025 19:24:14.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_4
+[07Aug2025 19:24:14.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_3
+[07Aug2025 19:24:14.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/scout
+[07Aug2025 19:24:14.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor1
+[07Aug2025 19:24:14.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_6
+[07Aug2025 19:24:14.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_1
+[07Aug2025 19:24:14.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/ocean_portal
+[07Aug2025 19:24:14.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small1
+[07Aug2025 19:24:14.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table2
+[07Aug2025 19:24:14.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/livq2
+[07Aug2025 19:24:14.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_4
+[07Aug2025 19:24:14.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/pyromancer
+[07Aug2025 19:24:14.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor2
+[07Aug2025 19:24:14.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_3
+[07Aug2025 19:24:14.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/house_1x1
+[07Aug2025 19:24:14.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_base
+[07Aug2025 19:24:14.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand3
+[07Aug2025 19:24:14.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/alchemist
+[07Aug2025 19:24:14.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table1
+[07Aug2025 19:24:14.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm3
+[07Aug2025 19:24:14.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand6
+[07Aug2025 19:24:14.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand2
+[07Aug2025 19:24:14.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand5
+[07Aug2025 19:24:14.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand4
+[07Aug2025 19:24:14.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/cryostasis_chamber
+[07Aug2025 19:24:14.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/cell
+[07Aug2025 19:24:14.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing_w
+[07Aug2025 19:24:14.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_5
+[07Aug2025 19:24:14.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/armory_1
+[07Aug2025 19:24:14.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm2_w
+[07Aug2025 19:24:14.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table2_w
+[07Aug2025 19:24:14.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/corridors
+[07Aug2025 19:24:14.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_diamond
+[07Aug2025 19:24:14.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small5
+[07Aug2025 19:24:14.631] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small4
+[07Aug2025 19:24:14.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1
+[07Aug2025 19:24:14.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table1_w
+[07Aug2025 19:24:14.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor1
+[07Aug2025 19:24:14.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove7
+[07Aug2025 19:24:14.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove11
+[07Aug2025 19:24:14.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove2
+[07Aug2025 19:24:14.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove13
+[07Aug2025 19:24:14.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove3
+[07Aug2025 19:24:14.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove8
+[07Aug2025 19:24:14.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove9
+[07Aug2025 19:24:14.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove14
+[07Aug2025 19:24:14.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor2
+[07Aug2025 19:24:14.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove1
+[07Aug2025 19:24:14.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove5
+[07Aug2025 19:24:14.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove12
+[07Aug2025 19:24:14.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small3
+[07Aug2025 19:24:14.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small1
+[07Aug2025 19:24:14.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/archery_tower
+[07Aug2025 19:24:14.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm2
+[07Aug2025 19:24:15.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[07Aug2025 19:24:18.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 19:24:18.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

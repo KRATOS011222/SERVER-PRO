@@ -9090,5 +9090,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-07 19:14:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
