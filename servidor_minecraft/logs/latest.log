@@ -1200,3 +1200,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 17:14:51.309] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
 [07Aug2025 17:14:51.309] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
 [07Aug2025 17:14:51.310] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[07Aug2025 17:29:53.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Enchanter]
+[07Aug2025 17:30:30.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:37959] logged in with entity id 23580 at (110.81012393281077, 67.0, -5658.215932855891)
+[07Aug2025 17:30:30.221] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[07Aug2025 17:30:30.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[07Aug2025 17:30:30.408] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[07Aug2025 17:30:56.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[07Aug2025 17:31:14.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
+[07Aug2025 17:31:28.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[07Aug2025 17:31:28.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[07Aug2025 17:31:28.291] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 17:31:31.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[07Aug2025 17:33:07.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:53493] logged in with entity id 26077 at (110.81012393281077, 67.0, -5658.215932855891)
+[07Aug2025 17:33:07.504] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[07Aug2025 17:33:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[07Aug2025 17:33:07.579] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[07Aug2025 17:33:28.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[07Aug2025 17:33:48.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Aug2025 17:34:05.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[07Aug2025 17:34:31.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
