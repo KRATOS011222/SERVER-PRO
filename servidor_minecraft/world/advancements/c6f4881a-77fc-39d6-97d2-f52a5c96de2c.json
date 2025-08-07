@@ -10516,9 +10516,57 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-08-07 16:50:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_spear": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_glaive": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_javelin": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
     },
     "done": true
   },
@@ -10528,15 +10576,87 @@
     },
     "done": true
   },
+  "spartanfire:recipes/ice_dragonsteel_throwing_knife": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_flanged_mace": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_battle_hammer": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_halberd": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_heavy_crossbow": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_quarterstaff": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-08-07 16:48:43 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
     "criteria": {
       "has_dragonscale_sapphire": "2025-08-07 18:27:52 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_warhammer": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
+    "criteria": {
+      "has_dragonsteel_ice_ingot": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_parrying_dagger": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
     },
     "done": true
   },
@@ -10552,6 +10672,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_greatsword": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/misc/magenta_dye_from_mulberry": {
     "criteria": {
       "has_mulberry": "2025-08-07 18:22:34 +0000"
@@ -10561,6 +10693,18 @@
   "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
       "core": "2025-08-07 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_boomerang": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_battleaxe": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
     },
     "done": true
   },
@@ -10576,9 +10720,45 @@
     },
     "done": true
   },
+  "spartanfire:recipes/ice_dragonsteel_dagger": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_saber": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_longbow": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_tomahawk": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_scythe": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-07 17:29:53 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_lance": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
     },
     "done": true
   },
@@ -10591,6 +10771,42 @@
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-08-07 17:48:13 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_katana": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_pike": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-08-07 18:37:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+    "criteria": {
+      "has_item": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_rapier": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/ice_dragonsteel_longsword": {
+    "criteria": {
+      "has_ice_dragonsteel": "2025-08-07 18:37:01 +0000"
     },
     "done": true
   },
