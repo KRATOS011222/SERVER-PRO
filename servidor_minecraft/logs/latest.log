@@ -1601,3 +1601,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 20:18:05.509] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Silence of the Forest]
 [07Aug2025 20:18:05.510] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Time To Even The Scales]
 [07Aug2025 20:18:20.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Aug2025 20:18:49.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Aug2025 20:20:00.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Aug2025 20:20:18.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
+[07Aug2025 20:20:36.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3422ms or 68 ticks behind
+[07Aug2025 20:20:55.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3401ms or 68 ticks behind
+[07Aug2025 20:21:13.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[07Aug2025 20:21:30.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[07Aug2025 20:21:48.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[07Aug2025 20:22:06.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
+[07Aug2025 20:22:23.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[07Aug2025 20:22:41.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[07Aug2025 20:22:59.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3375ms or 67 ticks behind
+[07Aug2025 20:23:08.435] [dimthread_server_twilight_forest/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[07Aug2025 20:23:08.439] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[07Aug2025 20:23:14.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than SUPATA123
+[07Aug2025 20:23:17.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2348ms or 46 ticks behind
+[07Aug2025 20:23:34.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[07Aug2025 20:23:44.154] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Strong Undead]
+[07Aug2025 20:23:44.154] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Bring Out Your Dead]
+[07Aug2025 20:23:51.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[07Aug2025 20:24:08.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[07Aug2025 20:24:25.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[07Aug2025 20:24:43.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[07Aug2025 20:25:00.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[07Aug2025 20:25:18.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
+[07Aug2025 20:25:36.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[07Aug2025 20:25:53.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[07Aug2025 20:26:16.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[07Aug2025 20:26:37.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[07Aug2025 20:27:06.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Aug2025 20:27:42.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Aug2025 20:28:09.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Withering Heights]
+[07Aug2025 20:28:10.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Aug2025 20:28:42.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Alpha Fur]
+[07Aug2025 20:28:51.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
