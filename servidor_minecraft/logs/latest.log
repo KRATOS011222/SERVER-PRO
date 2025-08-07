@@ -1448,3 +1448,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 19:00:10.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
 [07Aug2025 19:00:48.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
 [07Aug2025 19:00:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[07Aug2025 19:14:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Magic Writing]

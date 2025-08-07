@@ -22340,3 +22340,90 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 19:05:23.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [07Aug2025 19:05:23.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [07Aug2025 19:06:53.471] [dimthread_server_the_nether/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[07Aug2025 19:07:10.288] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[07Aug2025 19:07:10.290] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[07Aug2025 19:07:10.291] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[07Aug2025 19:07:10.292] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[07Aug2025 19:07:10.293] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[07Aug2025 19:07:10.294] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[07Aug2025 19:07:24.084] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[07Aug2025 19:07:24.085] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[07Aug2025 19:07:24.086] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[07Aug2025 19:07:24.087] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[07Aug2025 19:07:24.087] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[07Aug2025 19:07:24.089] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[07Aug2025 19:07:24.091] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[07Aug2025 19:07:24.092] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[07Aug2025 19:07:24.092] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[07Aug2025 19:07:24.093] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[07Aug2025 19:07:24.094] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[07Aug2025 19:07:24.095] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[07Aug2025 19:07:24.096] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[07Aug2025 19:07:24.099] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[07Aug2025 19:07:24.100] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[07Aug2025 19:07:24.101] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[07Aug2025 19:07:24.103] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[07Aug2025 19:07:24.104] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[07Aug2025 19:07:24.105] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[07Aug2025 19:07:24.108] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[07Aug2025 19:07:24.111] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[07Aug2025 19:07:24.112] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[07Aug2025 19:07:24.113] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[07Aug2025 19:07:24.115] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[07Aug2025 19:07:24.115] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[07Aug2025 19:07:24.117] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[07Aug2025 19:07:24.118] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[07Aug2025 19:07:24.119] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[07Aug2025 19:07:24.119] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[07Aug2025 19:07:24.120] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[07Aug2025 19:07:24.120] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[07Aug2025 19:07:24.121] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[07Aug2025 19:07:24.121] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[07Aug2025 19:07:24.122] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[07Aug2025 19:07:24.124] [Worker-Main-141/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_armored is being run through DFU (hash 9d11d79f2772586dbd23deb56c7273315fac21255abd73a9315d506e44542be9), this will cause launch time delays
+[07Aug2025 19:07:24.950] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[07Aug2025 19:07:24.951] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[07Aug2025 19:07:24.951] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[07Aug2025 19:07:24.951] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[07Aug2025 19:07:24.954] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[07Aug2025 19:07:24.957] [Worker-Main-141/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[07Aug2025 19:09:16.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 19:09:16.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 19:14:16.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 19:14:16.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 19:14:17.372] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.422] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.472] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.528] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.575] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.622] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.672] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.723] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.778] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.873] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:17.979] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.022] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.071] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.123] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.173] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.272] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.323] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.372] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.425] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.473] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.524] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.626] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.683] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.775] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.828] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:18.872] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[07Aug2025 19:14:35.527] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[07Aug2025 19:14:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Magic Writing]
+[07Aug2025 19:15:06.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[07Aug2025 19:15:15.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[07Aug2025 19:15:15.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
