@@ -10811,11 +10811,29 @@
     },
     "done": true
   },
-  "twilightforest:progress_merge": {
+  "tombstone:adventure/soul_magic": {
     "criteria": {
-      "snow_queen": "2025-08-07 20:35:25 +0000"
+      "coded_trigger": "2025-08-07 19:30:21 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-07 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-07 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-07 20:15:26 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
@@ -10823,9 +10841,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+  "twilightforest:root": {
     "criteria": {
-      "has_trophy": "2025-08-07 20:35:31 +0000"
+      "make_portal": "2025-08-07 20:16:43 +0000"
     },
     "done": true
   },
@@ -10836,33 +10854,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-08-07 20:24:14 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-08-07 20:18:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-07 20:27:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-08-07 20:15:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-08-07 20:18:26 +0000"
     },
     "done": true
   },
@@ -10872,82 +10866,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
+  "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
-      "has_item": "2025-08-07 20:27:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-08-07 20:37:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-08-07 20:37:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fortification_scepter": {
-    "criteria": {
-      "has_item": "2025-08-07 20:24:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
-    "criteria": {
-      "has_item": "2025-08-07 20:27:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-08-07 20:14:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_leggings": {
-    "criteria": {
-      "has_item": "2025-08-07 20:27:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2025-08-07 20:28:42 +0000",
-      "queen": "2025-08-07 20:35:25 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/soul_magic": {
-    "criteria": {
-      "coded_trigger": "2025-08-07 19:30:21 +0000"
+      "has_trophy": "2025-08-07 20:18:26 +0000"
     },
     "done": true
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-08-07 20:23:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
-    "criteria": {
-      "has_item": "2025-08-07 20:35:05 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
-    "criteria": {
-      "has_brown_wool": "2025-08-07 20:37:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-08-07 20:14:17 +0000"
     },
     "done": true
   },
@@ -10963,22 +10890,46 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-08-07 20:37:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-08-07 20:29:08 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2025-08-07 20:23:44 +0000",
       "yeti": "2025-08-07 20:28:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-08-07 20:24:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-08-07 20:24:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
     },
     "done": true
   },
@@ -10988,9 +10939,88 @@
     },
     "done": true
   },
-  "twilightforest:root": {
+  "twilightforest:progress_glacier": {
     "criteria": {
-      "make_portal": "2025-08-07 20:16:43 +0000"
+      "previous_progression": "2025-08-07 20:28:42 +0000",
+      "queen": "2025-08-07 20:35:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-08-07 20:29:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-08-07 20:35:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-08-07 20:35:25 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-08-07 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-07 20:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-07 20:37:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-08-07 20:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-07 20:37:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-07 20:48:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-08-07 20:48:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-07 21:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-07 21:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-07 21:01:07 +0000"
     },
     "done": true
   },
