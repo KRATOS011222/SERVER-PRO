@@ -1394,3 +1394,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 18:24:35.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [07Aug2025 18:24:53.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
 [07Aug2025 18:25:11.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
+[07Aug2025 18:28:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Heart and the Flame]
+[07Aug2025 18:31:11.038] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[07Aug2025 18:31:11.048] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[07Aug2025 18:31:17.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Nightmare Stalker
+[07Aug2025 18:31:56.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[07Aug2025 18:31:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[07Aug2025 18:33:03.835] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:37567] logged in with entity id 54749 at (110.5, 63.0, -5657.5)
+[07Aug2025 18:33:03.863] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[07Aug2025 18:33:03.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[07Aug2025 18:33:04.023] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[07Aug2025 18:34:01.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[07Aug2025 18:34:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[07Aug2025 18:34:58.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:33555] logged in with entity id 55108 at (110.5, 63.0, -5657.5)
+[07Aug2025 18:34:58.785] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[07Aug2025 18:34:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[07Aug2025 18:34:58.892] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
