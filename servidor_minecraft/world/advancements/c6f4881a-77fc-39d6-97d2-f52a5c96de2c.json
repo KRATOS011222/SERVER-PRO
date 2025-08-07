@@ -415,6 +415,7 @@
       "minecraft:grove": "2025-08-06 22:40:00 +0000",
       "minecraft:cold_ocean": "2025-07-28 02:24:58 +0000",
       "minecraft:forest": "2025-07-26 02:32:07 +0000",
+      "minecraft:lush_caves": "2025-08-07 21:10:01 +0000",
       "minecraft:deep_cold_ocean": "2025-08-04 16:05:50 +0000",
       "minecraft:ice_spikes": "2025-08-07 16:43:13 +0000",
       "minecraft:frozen_ocean": "2025-07-26 17:37:24 +0000",
@@ -11021,6 +11022,42 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-08-07 21:01:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-07 21:18:28 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-08-07 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-08-07 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-08-07 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-08-07 21:15:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-07 21:15:03 +0000"
     },
     "done": true
   },
