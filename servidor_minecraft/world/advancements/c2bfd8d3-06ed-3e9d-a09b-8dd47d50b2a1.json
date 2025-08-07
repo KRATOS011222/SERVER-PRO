@@ -9096,5 +9096,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-08-07 19:44:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
