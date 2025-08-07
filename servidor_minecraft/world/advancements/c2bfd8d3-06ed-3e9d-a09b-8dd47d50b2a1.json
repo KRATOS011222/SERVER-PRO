@@ -3912,6 +3912,7 @@
       "minecraft:spider": "2025-08-04 00:39:02 +0000",
       "minecraft:piglin_brute": "2025-08-06 21:56:37 +0000",
       "minecraft:creeper": "2025-08-04 00:35:58 +0000",
+      "minecraft:wither": "2025-08-07 20:30:40 +0000",
       "minecraft:zombified_piglin": "2025-08-04 05:04:12 +0000",
       "minecraft:witch": "2025-08-05 20:54:34 +0000",
       "minecraft:wither_skeleton": "2025-08-06 22:51:58 +0000",
@@ -9121,6 +9122,12 @@
     },
     "done": true
   },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-08-07 20:30:53 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_boomerang_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
@@ -9145,6 +9152,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-08-07 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-07 20:28:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
@@ -9160,6 +9179,12 @@
   "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-08-07 20:30:53 +0000"
     },
     "done": true
   },
@@ -9259,6 +9284,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-08-07 20:30:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
@@ -9346,6 +9377,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-08-07 19:44:51 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-08-07 20:30:53 +0000"
     },
     "done": true
   },

@@ -10811,9 +10811,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-08-07 20:35:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-08-07 20:16:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-08-07 20:35:31 +0000"
     },
     "done": true
   },
@@ -10836,6 +10848,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-08-07 20:15:26 +0000"
@@ -10854,15 +10872,40 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fortification_scepter": {
     "criteria": {
       "has_item": "2025-08-07 20:24:04 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-07 20:14:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-08-07 20:28:42 +0000",
+      "queen": "2025-08-07 20:35:25 +0000"
     },
     "done": true
   },
@@ -10875,6 +10918,12 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-08-07 20:23:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-08-07 20:35:05 +0000"
     },
     "done": true
   },
@@ -10896,11 +10945,24 @@
     },
     "done": false
   },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-08-07 20:29:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-08-07 20:23:44 +0000"
+      "previous_progression": "2025-08-07 20:23:44 +0000",
+      "yeti": "2025-08-07 20:28:42 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-08-07 20:27:05 +0000"
+    },
+    "done": true
   },
   "twilightforest:root": {
     "criteria": {
