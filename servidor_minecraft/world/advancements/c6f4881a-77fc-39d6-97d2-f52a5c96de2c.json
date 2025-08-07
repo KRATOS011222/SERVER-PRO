@@ -10552,6 +10552,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-08-07 17:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-07 17:29:53 +0000"

@@ -3917,6 +3917,7 @@
       "minecraft:piglin": "2025-08-04 04:06:20 +0000",
       "minecraft:enderman": "2025-08-04 15:21:56 +0000",
       "minecraft:zombie": "2025-08-01 22:05:47 +0000",
+      "minecraft:drowned": "2025-08-07 17:43:58 +0000",
       "minecraft:zombie_villager": "2025-08-04 22:36:46 +0000"
     },
     "done": false
@@ -8873,77 +8874,203 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "spartanweaponry:recipes/copper_battle_hammer": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "spartanweaponry:recipes/copper_glaive": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "bestiary": "2025-08-07 17:42:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/tools/brush": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "spartanweaponry:recipes/copper_scythe": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "bestiary": "2025-08-07 17:41:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "spartanweaponry:recipes/copper_battleaxe": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "spartanweaponry:recipes/copper_lance": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 17:30:59 +0000"
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-08-07 17:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-07 17:43:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
