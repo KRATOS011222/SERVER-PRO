@@ -14017,3 +14017,96 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Aug2025 17:00:41.353] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [07Aug2025 17:02:56.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Aug2025 17:02:56.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 17:06:41.867] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[07Aug2025 17:06:41.878] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[07Aug2025 17:07:41.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Dread Scuttler
+[07Aug2025 17:07:41.827] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:2333, y:139, z:-7066, dim:minecraft:overworld]
+[07Aug2025 17:07:51.600] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'prehistoricfauna:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm_ut:cataclysm_ut' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enderio:network' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'attributizer:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'azurelib:network_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'usefulbackpacks:slot_mod' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'attributeslib:attributeslib' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether_redux:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm_weaponery:cataclysm_weaponery' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'biggerstacks:rules' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mekanism:mekanism' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'traveloptics:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_aether:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'benssharks:benssharks' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:ingredient_sync' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'slashblade:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dungeons_and_combat:dungeons_and_combat' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'charmofundying:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deep_aether:deep_aether' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tickrateapi:tickrateapi' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.601] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lost_aether_content:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'raccompat:network' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mofus_better_end_:mofus_better_end_' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enderio:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eidolon:network' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether_protect_your_moa:main' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'traveloptics:traveloptics' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Vanilla acceptance test: REJECTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'unusualprehistory:messages' : Vanilla acceptance test: ACCEPTED
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,alexscaves:main_channel,structure_gel:main,prehistoricfauna:main_channel,cataclysm_ut:cataclysm_ut,enderio:network,attributizer:main,azurelib:main,nitrogen_internals:main,framework:play,azurelib:network_channel,usefulbackpacks:slot_mod,aether_redux:main,cataclysm:main_channel,cataclysm_weaponery:cataclysm_weaponery,lionfishapi:main_channel,forge:tier_sorting,biggerstacks:rules,alexsmobs:main_channel,playerrevive:main,mowziesmobs:net,creativecore:main,mekanism:mekanism,caelus:main,traveloptics:main_channel,deep_aether:main,benssharks:benssharks,spartanweaponry:network,blueprint:net,slashblade:main,geckolib:main,dungeons_and_combat:dungeons_and_combat,aether:main,carryon:carryonpackets,charmofundying:main,citadel:main_channel,walljump:network,securitycraft:securitycraft,iceandfire:main_channel,born_in_chaos_v1:born_in_chaos_v1,deep_aether:deep_aether,obscure_api:obscure_api,tickrateapi:tickrateapi,lost_aether_content:main,uteamcore:network_forge,curios:main,pehkui:main,framework:handshake,spartanshields:network,aquamirae:main,tombstone:tombstone_channel,mofus_better_end_:mofus_better_end_,enderio:main,aether_protect_your_moa:main,uteamcore:network,traveloptics:traveloptics,twilightforest:channel,waystones:network] rejected vanilla connections
+[07Aug2025 17:07:51.602] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.82.22.195:35829] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[07Aug2025 17:07:56.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 17:07:56.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 17:08:27.506] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[07Aug2025 17:08:53.820] [dimthread_server_overworld/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Aug2025 17:12:56.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 17:12:56.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
