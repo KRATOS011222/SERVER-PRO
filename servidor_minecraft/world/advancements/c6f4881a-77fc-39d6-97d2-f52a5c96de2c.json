@@ -11031,12 +11031,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bookshelf_smithing": {
-    "criteria": {
-      "has_bookshelf": "2025-08-07 21:25:08 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-08-07 21:15:03 +0000"
@@ -11066,6 +11060,24 @@
       "has_diamond_gloves": "2025-08-07 21:23:28 +0000"
     },
     "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-08-07 21:25:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-08-07 21:29:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-08 13:53:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
