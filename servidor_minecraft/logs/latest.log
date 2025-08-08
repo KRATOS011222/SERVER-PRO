@@ -1444,3 +1444,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 15:19:21.669] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [08Aug2025 15:19:29.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Tyrannosaurus Rex
 [08Aug2025 15:20:12.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> por que no muere inguno?
+[08Aug2025 15:20:39.765] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[08Aug2025 15:20:39.781] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[08Aug2025 15:20:45.965] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[08Aug2025 15:20:45.968] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[08Aug2025 15:20:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was shot by SUPATA123
+[08Aug2025 15:20:53.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.flood_slash
+[08Aug2025 15:21:39.523] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[08Aug2025 15:21:39.527] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[08Aug2025 15:21:46.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was zapped to death by Aqua Grandmaster
+[08Aug2025 15:29:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Enchanter]
