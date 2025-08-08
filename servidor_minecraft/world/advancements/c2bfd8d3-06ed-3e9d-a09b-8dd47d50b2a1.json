@@ -9087,78 +9087,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-07 20:55:28 +0000",
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
+      "has_bone_block": "2025-08-07 18:47:28 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
+      "has_magic_scroll": "2025-08-07 19:14:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "log_spam_fixer": "2025-08-07 20:55:29 +0000"
+      "has_magic_tablet": "2025-08-07 19:44:51 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-08-07 20:10:20 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-08-07 20:11:35 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
@@ -9178,27 +9135,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2025-08-07 20:21:32 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/netherite_bolt": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-07 18:47:28 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/wither_eye": {
-    "criteria": {
-      "wither_eye": "2025-08-07 20:30:53 +0000"
     },
     "done": true
   },
@@ -9226,18 +9165,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2025-08-07 20:30:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-08-07 20:28:09 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
@@ -9253,12 +9180,6 @@
   "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-08-07 20:30:53 +0000"
     },
     "done": true
   },
@@ -9292,12 +9213,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-08-07 20:47:17 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_katana_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
@@ -9319,18 +9234,6 @@
   "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-08-07 19:14:37 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-08-07 20:10:20 +0000"
     },
     "done": true
   },
@@ -9364,12 +9267,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-08-07 20:30:40 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
@@ -9388,21 +9285,9 @@
     },
     "done": true
   },
-  "mowziesmobs:suns_blessing": {
-    "criteria": {
-      "get_suns_blessing": "2025-08-07 20:11:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2025-08-07 20:24:35 +0000"
     },
     "done": true
   },
@@ -9454,18 +9339,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-08-07 19:44:51 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/nether_star_hook": {
-    "criteria": {
-      "has_items": "2025-08-07 20:30:53 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_glaive_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
@@ -9489,6 +9362,133 @@
       "has_netherite_ingot": "2025-08-07 20:20:28 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-08-07 20:21:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-08-07 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-07 20:28:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-08-07 20:30:40 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-08-07 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-08-07 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-08-07 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-08-07 20:30:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-07 20:47:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-08 14:00:29 +0000",
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
