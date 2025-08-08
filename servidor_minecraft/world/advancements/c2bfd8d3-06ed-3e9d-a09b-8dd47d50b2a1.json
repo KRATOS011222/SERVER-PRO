@@ -9422,73 +9422,73 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 15:28:27 +0000"
+      "log_spam_fixer": "2025-08-08 15:38:27 +0000"
     },
     "done": false
   },
@@ -9555,6 +9555,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-08-08 15:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-08 15:33:53 +0000"
     },
     "done": true
   },
@@ -9666,6 +9672,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-08 15:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
@@ -9687,6 +9699,12 @@
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-08-08 15:00:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-08 15:33:53 +0000"
     },
     "done": true
   },

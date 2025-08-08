@@ -1454,3 +1454,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Aug2025 15:21:39.527] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [08Aug2025 15:21:46.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was zapped to death by Aqua Grandmaster
 [08Aug2025 15:29:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Enchanter]
+[08Aug2025 15:32:08.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzzz
+[08Aug2025 15:36:22.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[08Aug2025 15:36:30.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
