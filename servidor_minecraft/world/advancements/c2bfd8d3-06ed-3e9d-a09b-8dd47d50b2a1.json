@@ -9417,78 +9417,125 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
-      "requirement": "2025-08-08 14:00:29 +0000",
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_waxed_copper_block": "2025-08-08 14:15:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_waxed_copper_block": "2025-08-08 14:15:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_waxed_copper_block": "2025-08-08 14:15:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 14:00:28 +0000"
+      "has_waxed_copper_block": "2025-08-08 14:15:01 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-08-08 14:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-08-08 14:13:54 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

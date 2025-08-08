@@ -11073,5 +11073,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed": "2025-08-08 14:17:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
