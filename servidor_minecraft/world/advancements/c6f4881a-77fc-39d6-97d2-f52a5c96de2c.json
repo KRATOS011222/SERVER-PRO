@@ -11073,6 +11073,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-08-08 14:41:59 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed": "2025-08-08 14:17:47 +0000"
