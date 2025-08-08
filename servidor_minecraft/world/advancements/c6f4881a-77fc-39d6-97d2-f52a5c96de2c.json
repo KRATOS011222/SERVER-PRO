@@ -11079,5 +11079,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 14:36:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
