@@ -11105,6 +11105,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 23:53:36 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2025-08-10 22:27:17 +0000"
@@ -11126,6 +11132,12 @@
   "tombstone:adventure/mastery_1": {
     "criteria": {
       "coded_trigger": "2025-08-10 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-08-10 23:52:57 +0000"
     },
     "done": true
   },
