@@ -1585,3 +1585,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	... 6 more
 [10Aug2025 22:21:36.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@604a58a7[id=<null>,name=grillo1320,properties={},legacy=false] (/127.237.29.143:38455) lost connection: Disconnected
 [10Aug2025 22:22:10.409] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@45967e44
+[10Aug2025 22:27:16.407] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[10Aug2025 22:27:16.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:35725] logged in with entity id 2079 at (65.51425282655755, 66.0, -5717.045934368804)
+[10Aug2025 22:27:16.822] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[10Aug2025 22:27:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[10Aug2025 22:27:17.402] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[10Aug2025 22:27:17.751] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [The Undead]
+[10Aug2025 22:27:19.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[10Aug2025 22:27:38.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[10Aug2025 22:28:01.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:56091] logged in with entity id 2489 at (90.23230994011192, 64.0, -5675.5259711963245)
+[10Aug2025 22:28:01.921] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[10Aug2025 22:28:01.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[10Aug2025 22:28:02.086] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[10Aug2025 22:28:02.173] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [The Undead]
+[10Aug2025 22:28:59.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[10Aug2025 22:28:59.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[10Aug2025 22:29:00.087] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Aug2025 22:29:43.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:54587] logged in with entity id 2679 at (90.23230994011192, 64.0, -5675.5259711963245)
+[10Aug2025 22:29:43.591] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[10Aug2025 22:29:43.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[10Aug2025 22:29:43.958] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)

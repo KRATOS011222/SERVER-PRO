@@ -11073,47 +11073,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
-      "has_emerald_block": "2025-08-08 15:59:53 +0000"
+      "killed": "2025-08-08 14:17:47 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/revive_familiar": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-08 15:48:22 +0000"
+      "coded_trigger": "2025-08-08 14:36:26 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
   },
   "aether:recipes/tools/iron_hoe_repairing": {
     "criteria": {
@@ -11121,57 +11091,21 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed": "2025-08-08 14:17:47 +0000"
+      "has_bone_block": "2025-08-08 15:48:22 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "log_spam_fixer": "2025-08-08 17:46:05 +0000"
+      "has_emerald_block": "2025-08-08 15:59:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "tombstone:adventure/revive_familiar": {
+  "undead_revamp2:theundeadchallenges": {
     "criteria": {
-      "coded_trigger": "2025-08-08 14:36:26 +0000"
+      "theundeadchallenges_0": "2025-08-10 22:27:17 +0000"
     },
     "done": true
   },
