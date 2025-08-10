@@ -14457,3 +14457,547 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 22:56:53.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [10Aug2025 22:57:10.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
 [10Aug2025 22:57:37.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10Aug2025 22:58:11.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[10Aug2025 22:58:14.603] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:14.665] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:14.732] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:14.783] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:14.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:14.890] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:14.943] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:14.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.109] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.156] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.204] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.267] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.557] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.604] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.664] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.722] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.780] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.906] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:15.972] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.036] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.092] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.145] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.206] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.324] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.438] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:16.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:58:28.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10Aug2025 22:58:48.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:58:48.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:58:50.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Aug2025 22:59:01.905] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:01.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:02.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:02.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:02.113] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:02.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:02.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:02.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:02.309] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.005] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.148] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.209] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.260] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.331] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.389] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.652] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.697] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.840] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.893] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.941] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:04.990] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.033] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.078] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.123] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.166] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.313] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.372] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:05.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.186] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.289] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.336] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.385] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.453] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.500] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.697] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.748] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.809] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:13.932] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.508] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.566] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.624] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.673] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.727] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.821] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.873] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.920] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:14.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.018] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.139] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.189] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.237] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.284] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.397] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.441] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.504] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.657] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.705] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.755] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.810] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.873] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:15.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.030] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.074] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.174] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.275] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.378] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.439] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.486] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.534] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.582] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.629] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.736] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.847] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.910] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:16.959] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.117] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.275] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:17.374] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.060] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.115] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.166] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.221] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.318] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.370] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.429] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.492] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.537] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:18.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 22:59:20.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Aug2025 22:59:49.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Aug2025 23:00:18.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[10Aug2025 23:00:36.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Aug2025 23:00:43.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:44.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:45.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:45.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:45.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:45.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:46.202] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:46.204] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:46.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:46.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:47.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:47.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:47.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:48.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:48.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:48.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:48.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:49.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:49.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:49.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:49.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:49.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:50.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:50.289] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:50.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:50.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:50.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:50.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:51.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:51.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:52.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:53.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:53.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:53.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:53.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:53.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:53.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:54.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:55.109] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:55.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:55.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:55.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:56.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:56.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:00:57.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:01:00.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[10Aug2025 23:01:17.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[10Aug2025 23:01:23.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.432] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.533] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.803] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.852] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.905] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:23.964] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.035] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.143] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.203] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.313] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.365] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.614] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.663] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:24.714] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:32.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:01:32.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:01:32.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:01:33.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:01:33.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:01:34.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[10Aug2025 23:01:41.257] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.313] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.440] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.500] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.556] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.665] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.720] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:41.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:42.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:42.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:42.156] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:42.206] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.053] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.114] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.173] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.229] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.286] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.339] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.389] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.503] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.613] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.714] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.766] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.821] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:49.932] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.006] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.057] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.113] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.182] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.237] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.290] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.341] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.404] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.455] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.516] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.562] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.742] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.810] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.873] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.921] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:50.972] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.035] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.089] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.151] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.203] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.258] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.306] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.355] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[10Aug2025 23:01:51.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.518] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.568] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.618] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.673] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.731] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.783] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.833] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.884] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.935] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:51.992] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.108] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.162] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.220] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.393] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.455] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.505] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.555] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.671] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.782] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.836] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.896] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:52.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.158] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.212] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.318] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.373] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.541] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.596] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.703] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.804] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.853] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.912] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:53.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.074] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.134] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.243] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.360] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.408] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.535] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.584] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.700] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.798] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.896] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:54.956] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.007] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.065] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.113] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.224] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.406] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.457] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.514] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.614] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.670] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.739] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:55.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.015] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.114] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.163] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.212] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.338] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.393] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.496] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.550] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.613] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.664] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.727] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.831] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.888] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.943] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:56.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.055] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.105] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.153] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.331] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.408] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.456] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.502] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.559] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.727] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.778] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.831] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.879] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:57.975] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.031] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.079] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.132] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.192] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.267] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.408] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.525] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.632] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.692] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.759] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.812] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.872] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.937] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:58.992] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.046] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.108] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.224] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.288] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.340] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.541] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.735] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:01:59.968] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.074] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.131] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.187] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.239] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.363] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.415] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.475] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.521] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.634] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.688] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.812] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.868] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.925] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:00.981] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:01.038] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:01.090] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:01.138] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:04.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:04.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:04.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:04.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:04.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:05.305] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:05.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:05.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:10.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:10.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:10.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:10.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:10.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:11.252] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:11.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:11.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:11.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:12.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:12.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:13.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:13.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:14.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:02:14.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Aug2025 23:02:18.305] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:18.364] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:18.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:18.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:18.519] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:18.569] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:02:37.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Aug2025 23:03:00.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10Aug2025 23:03:26.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10Aug2025 23:03:47.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[10Aug2025 23:03:52.179] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.240] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.491] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.552] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.601] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.657] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:52.714] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.701] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.751] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.804] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:54.969] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:03:55.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:04:11.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Aug2025 23:04:17.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 23:04:17.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 23:05:08.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:06:57.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:06:59.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Aug2025 23:08:18.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:08:18.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:08:18.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:08:18.319] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:08:18.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:08:18.415] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Aug2025 23:08:18.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
