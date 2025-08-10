@@ -1666,3 +1666,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 23:18:21.101] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [10Aug2025 23:18:21.107] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [10Aug2025 23:18:36.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10Aug2025 23:19:20.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [Charm Collector]
+[10Aug2025 23:21:20.371] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[10Aug2025 23:21:20.407] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[10Aug2025 23:21:39.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[10Aug2025 23:21:57.574] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[10Aug2025 23:21:59.985] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[10Aug2025 23:22:00.006] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[10Aug2025 23:22:03.104] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Dark Creator]
+[10Aug2025 23:22:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Vindicator
+[10Aug2025 23:22:38.376] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[10Aug2025 23:22:38.382] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[10Aug2025 23:22:46.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Vex
+[10Aug2025 23:25:56.479] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Hero of the Village]
+[10Aug2025 23:27:08.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!

@@ -3916,12 +3916,14 @@
       "minecraft:piglin_brute": "2025-08-06 21:56:37 +0000",
       "minecraft:creeper": "2025-08-04 00:35:58 +0000",
       "minecraft:wither": "2025-08-07 20:30:40 +0000",
+      "minecraft:evoker": "2025-08-10 23:19:17 +0000",
       "minecraft:zombified_piglin": "2025-08-04 05:04:12 +0000",
       "minecraft:witch": "2025-08-05 20:54:34 +0000",
       "minecraft:wither_skeleton": "2025-08-06 22:51:58 +0000",
       "minecraft:husk": "2025-08-07 20:48:05 +0000",
       "minecraft:piglin": "2025-08-04 04:06:20 +0000",
       "minecraft:enderman": "2025-08-04 15:21:56 +0000",
+      "minecraft:vex": "2025-08-10 23:19:48 +0000",
       "minecraft:zombie": "2025-08-01 22:05:47 +0000",
       "minecraft:drowned": "2025-08-07 17:43:58 +0000",
       "minecraft:zombie_villager": "2025-08-04 22:36:46 +0000"
@@ -9663,6 +9665,18 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2025-08-10 22:28:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-08-10 23:24:11 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-08-10 23:22:03 +0000"
     },
     "done": true
   },
