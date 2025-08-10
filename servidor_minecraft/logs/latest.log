@@ -1680,3 +1680,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 23:22:46.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Vex
 [10Aug2025 23:25:56.479] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Hero of the Village]
 [10Aug2025 23:27:08.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[10Aug2025 23:37:37.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Aug2025 23:38:24.209] [dimthread_server_twilight_forest/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Silence of the Forest]
+[10Aug2025 23:38:49.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! 6.746706742774137,2.249187078744683,-7.277873683810867
+[10Aug2025 23:38:49.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7970ms or 159 ticks behind
