@@ -11109,5 +11109,17 @@
     },
     "done": true
   },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-08-10 23:09:26 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-08-10 23:09:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1659,3 +1659,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 23:03:26.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [10Aug2025 23:03:47.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [10Aug2025 23:04:11.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Aug2025 23:09:26.451] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [My Bald Satanic Goth Girl Friend]
+[10Aug2025 23:09:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [First big catch of the month!]
+[10Aug2025 23:14:18.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Mastery 1]
+[10Aug2025 23:18:16.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Ol' Betsy]
+[10Aug2025 23:18:21.101] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[10Aug2025 23:18:21.107] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[10Aug2025 23:18:36.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
