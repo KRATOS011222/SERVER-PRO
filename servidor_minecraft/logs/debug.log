@@ -19279,3 +19279,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11Aug2025 00:16:58.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [11Aug2025 00:17:38.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
 [11Aug2025 00:17:38.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[11Aug2025 00:21:47.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 00:21:47.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 00:26:47.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 00:26:47.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
