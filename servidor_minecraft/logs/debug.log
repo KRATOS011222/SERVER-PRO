@@ -14315,3 +14315,151 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Aug2025 02:33:06.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [12Aug2025 02:33:06.122] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [12Aug2025 02:33:30.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Aug2025 02:33:53.672] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:53.712] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:53.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:53.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:53.884] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:53.931] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:53.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.037] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.093] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.145] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.201] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.265] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.322] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.377] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.475] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.531] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.590] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:54.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:33:58.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:33:59.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 02:33:59.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 02:33:59.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:34:08.556] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.613] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.661] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.711] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.766] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.813] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.862] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.904] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:08.952] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.003] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.114] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.154] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.211] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.251] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.308] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.353] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.403] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.457] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:09.508] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.062] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.110] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.157] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.208] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.253] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.312] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.372] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.413] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.455] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.507] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.602] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.782] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.830] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:10.875] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:34:12.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: traveloptics:aerial_collapse 1: [f24cf5b0-a839-4086-bfc6-fd68badb6e5e]
+[12Aug2025 02:34:15.405] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[12Aug2025 02:34:15.411] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[12Aug2025 02:34:23.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[12Aug2025 02:34:23.413] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:112, y:72, z:-5773, dim:minecraft:overworld]
+[12Aug2025 02:34:24.796] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[12Aug2025 02:34:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> oe cama que feu?
+[12Aug2025 02:38:58.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 02:38:58.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 02:41:04.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:04.765] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[12Aug2025 02:41:05.606] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[12Aug2025 02:41:05.641] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[12Aug2025 02:41:05.731] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[12Aug2025 02:41:05.787] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[12Aug2025 02:41:05.794] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[12Aug2025 02:41:05.799] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[12Aug2025 02:41:05.805] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[12Aug2025 02:41:05.852] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[12Aug2025 02:41:05.861] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[12Aug2025 02:41:05.865] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_4
+[12Aug2025 02:41:05.874] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_3
+[12Aug2025 02:41:05.875] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_5
+[12Aug2025 02:41:05.984] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_2
+[12Aug2025 02:41:05.989] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_9
+[12Aug2025 02:41:05.992] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_10
+[12Aug2025 02:41:05.993] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_0
+[12Aug2025 02:41:05.994] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_7
+[12Aug2025 02:41:05.995] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_4
+[12Aug2025 02:41:05.996] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_3
+[12Aug2025 02:41:05.997] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_5
+[12Aug2025 02:41:05.998] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_4
+[12Aug2025 02:41:05.999] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_12
+[12Aug2025 02:41:05.999] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_6
+[12Aug2025 02:41:06.000] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_2
+[12Aug2025 02:41:06.001] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_9
+[12Aug2025 02:41:06.002] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_7
+[12Aug2025 02:41:06.003] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_0
+[12Aug2025 02:41:06.003] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_8
+[12Aug2025 02:41:06.004] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_11
+[12Aug2025 02:41:06.004] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_5
+[12Aug2025 02:41:06.007] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_6
+[12Aug2025 02:41:06.008] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_1
+[12Aug2025 02:41:06.009] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_1
+[12Aug2025 02:41:06.013] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_8
+[12Aug2025 02:41:06.025] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_0
+[12Aug2025 02:41:06.175] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_archer_0
+[12Aug2025 02:41:06.175] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_assassin_0
+[12Aug2025 02:41:06.176] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_hoglin_0
+[12Aug2025 02:41:06.177] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_hoglin_1
+[12Aug2025 02:41:07.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Aug2025 02:41:08.516] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[12Aug2025 02:41:08.755] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[12Aug2025 02:41:08.759] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[12Aug2025 02:41:08.867] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[12Aug2025 02:41:09.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:14.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Sunleia
+[12Aug2025 02:41:14.934] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:12175, y:69, z:-29587, dim:minecraft:overworld]
+[12Aug2025 02:41:16.177] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[12Aug2025 02:41:27.145] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:27.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Aug2025 02:41:28.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:30.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:38.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:39.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:40.428] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[12Aug2025 02:41:40.460] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[12Aug2025 02:41:40.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:41:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Sunleia
+[12Aug2025 02:41:46.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:12193, y:66, z:-29584, dim:minecraft:overworld]
+[12Aug2025 02:41:47.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5283ms or 105 ticks behind
+[12Aug2025 02:41:48.405] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[12Aug2025 02:41:59.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:42:00.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:42:06.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Aug2025 02:42:06.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:42:07.374] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[12Aug2025 02:42:07.395] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[12Aug2025 02:42:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Sunleia
+[12Aug2025 02:42:13.324] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:12207, y:66, z:-29584, dim:minecraft:overworld]
+[12Aug2025 02:42:14.664] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[12Aug2025 02:42:21.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[12Aug2025 02:42:23.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[12Aug2025 02:42:42.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
+[12Aug2025 02:43:00.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3084ms or 61 ticks behind
+[12Aug2025 02:43:17.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
+[12Aug2025 02:43:35.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
+[12Aug2025 02:43:54.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3303ms or 66 ticks behind

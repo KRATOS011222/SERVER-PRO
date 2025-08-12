@@ -1336,6 +1336,7 @@
       "baked_potato": "2025-07-30 22:48:51 +0000",
       "porkchop": "2025-07-26 16:29:16 +0000",
       "mutton": "2025-07-26 17:06:10 +0000",
+      "cooked_chicken": "2025-08-12 02:37:47 +0000",
       "rabbit_stew": "2025-08-06 22:11:22 +0000",
       "chicken": "2025-08-05 21:18:27 +0000",
       "cooked_mutton": "2025-07-28 17:18:08 +0000",
@@ -11153,9 +11154,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-08-12 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-08-12 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-08-12 02:29:49 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-08-12 02:18:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-12 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-08-12 02:29:49 +0000"
     },
     "done": true
   },
