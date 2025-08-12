@@ -1189,3 +1189,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Aug2025 01:59:18.976] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [12Aug2025 01:59:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Cave Centipede
 [12Aug2025 02:11:55.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[12Aug2025 02:18:43.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [Praise the Sun]
+[12Aug2025 02:20:25.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:55879] logged in with entity id 9802 at (110.73149193171237, 67.0, -5661.075292551658)
+[12Aug2025 02:20:25.595] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[12Aug2025 02:20:25.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[12Aug2025 02:20:25.716] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[12Aug2025 02:20:50.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[12Aug2025 02:21:12.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12Aug2025 02:21:23.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[12Aug2025 02:21:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[12Aug2025 02:21:23.682] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Aug2025 02:21:24.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12173, y=42, z=-28620} BlockPos{x=12173, y=41, z=-28620}
+[12Aug2025 02:21:24.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12173, y=42, z=-28620} BlockPos{x=12173, y=41, z=-28620}
+[12Aug2025 02:21:24.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12173, y=42, z=-28620} BlockPos{x=12173, y=41, z=-28620}
+[12Aug2025 02:21:24.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12173, y=42, z=-28620} BlockPos{x=12173, y=41, z=-28620}
+[12Aug2025 02:21:24.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12173, y=42, z=-28620} BlockPos{x=12173, y=41, z=-28620}
+[12Aug2025 02:21:24.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12173, y=42, z=-28620} BlockPos{x=12173, y=41, z=-28620}
+[12Aug2025 02:21:35.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12175, y=27, z=-28611} BlockPos{x=12175, y=26, z=-28610}
+[12Aug2025 02:21:37.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12175, y=22, z=-28608} BlockPos{x=12175, y=23, z=-28607}
+[12Aug2025 02:21:49.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12162, y=15, z=-28606} BlockPos{x=12163, y=15, z=-28605}

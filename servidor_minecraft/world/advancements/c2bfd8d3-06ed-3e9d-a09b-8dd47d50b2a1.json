@@ -9669,88 +9669,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "requirement": "2025-08-11 00:12:54 +0000",
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:12:42 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_0": "2025-08-10 23:24:11 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "king_spider": "2025-08-10 23:38:24 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-08-10 22:41:42 +0000"
     },
     "done": true
   },
@@ -9760,15 +9681,27 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-08-10 22:41:42 +0000"
+      "charm_collector_0": "2025-08-10 23:24:11 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-08-10 23:25:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-08-10 23:37:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "king_spider": "2025-08-10 23:38:24 +0000"
     },
     "done": true
   },
@@ -9778,11 +9711,77 @@
     },
     "done": true
   },
-  "twilightforest:root": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "in_tf": "2025-08-10 23:37:19 +0000"
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-12 02:21:16 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
