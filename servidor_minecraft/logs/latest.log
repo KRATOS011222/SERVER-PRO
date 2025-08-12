@@ -1179,3 +1179,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
 [12Aug2025 01:48:08.782] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@15af7c81
+[12Aug2025 01:56:44.653] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[12Aug2025 01:56:44.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:53065] logged in with entity id 2085 at (12017.970362015221, -2.0, -29112.748680862966)
+[12Aug2025 01:56:45.024] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[12Aug2025 01:56:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[12Aug2025 01:56:45.524] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[12Aug2025 01:56:53.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Aug2025 01:59:18.912] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[12Aug2025 01:59:18.976] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[12Aug2025 01:59:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Cave Centipede

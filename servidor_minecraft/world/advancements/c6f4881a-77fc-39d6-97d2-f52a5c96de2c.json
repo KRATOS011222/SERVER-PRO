@@ -11105,100 +11105,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-11 00:16:55 +0000",
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-11 00:16:48 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/trade_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2025-08-10 23:53:36 +0000"
-    },
-    "done": true
-  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges_0": "2025-08-10 22:27:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-08-10 23:18:16 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-08-11 00:03:48 +0000"
     },
     "done": true
   },
@@ -11208,9 +11117,21 @@
     },
     "done": true
   },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-08-10 23:09:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mastery_1": {
     "criteria": {
       "coded_trigger": "2025-08-10 23:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-10 23:18:16 +0000"
     },
     "done": true
   },
@@ -11220,9 +11141,15 @@
     },
     "done": true
   },
-  "undead_revamp2:mygothgf": {
+  "tombstone:adventure/trade_grave_guardian": {
     "criteria": {
-      "mygothgf_0": "2025-08-10 23:09:26 +0000"
+      "coded_trigger": "2025-08-10 23:53:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-08-11 00:03:48 +0000"
     },
     "done": true
   },
