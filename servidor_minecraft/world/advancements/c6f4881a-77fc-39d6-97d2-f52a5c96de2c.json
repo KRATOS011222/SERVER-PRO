@@ -11154,21 +11154,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "killed": "2025-08-12 02:46:41 +0000"
+      "barako": "2025-08-12 02:18:43 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-08-12 02:29:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-08-12 02:40:10 +0000"
     },
     "done": true
   },
@@ -11184,6 +11178,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-12 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-08-12 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-12 02:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-08-12 02:40:10 +0000"
@@ -11193,12 +11205,6 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-08-12 02:40:10 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-08-12 02:18:43 +0000"
     },
     "done": true
   },
@@ -11220,15 +11226,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "has_item": "2025-08-12 02:29:49 +0000"
+      "killed": "2025-08-12 02:46:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "undead_revamp2:nightnight": {
     "criteria": {
-      "has_item": "2025-08-12 02:29:49 +0000"
+      "nightnight_0": "2025-08-12 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-08-12 03:00:09 +0000"
     },
     "done": true
   },
