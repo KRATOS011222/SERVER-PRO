@@ -13167,3 +13167,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Aug2025 02:00:21.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [12Aug2025 02:00:21.551] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [12Aug2025 02:00:21.602] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[12Aug2025 02:03:10.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 02:03:10.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 02:04:54.531] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[12Aug2025 02:08:10.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 02:08:10.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 02:11:55.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[12Aug2025 02:13:10.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 02:13:10.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

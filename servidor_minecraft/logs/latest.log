@@ -1188,3 +1188,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Aug2025 01:59:18.912] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [12Aug2025 01:59:18.976] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [12Aug2025 01:59:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Cave Centipede
+[12Aug2025 02:11:55.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
