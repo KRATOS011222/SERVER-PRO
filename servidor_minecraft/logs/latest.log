@@ -1221,3 +1221,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 03:42:49.769] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [14Aug2025 03:42:49.777] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [14Aug2025 03:42:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Lifestealer
+[14Aug2025 03:52:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Unusual Park]

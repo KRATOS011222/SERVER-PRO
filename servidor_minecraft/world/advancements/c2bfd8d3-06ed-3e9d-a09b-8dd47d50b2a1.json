@@ -9766,6 +9766,12 @@
     },
     "done": true
   },
+  "minecraft:main/amber_fossil": {
+    "criteria": {
+      "amber_fossil": "2025-08-14 03:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-08-14 03:15:37 +0000"
