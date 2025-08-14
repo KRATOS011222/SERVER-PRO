@@ -9893,5 +9893,41 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-08-14 21:31:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-08-14 21:31:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-08-14 21:31:31 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-08-14 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:bullseyes": {
+    "criteria": {
+      "bullseyes_0": "2025-08-14 21:25:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-08-14 21:31:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

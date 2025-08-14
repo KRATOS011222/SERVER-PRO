@@ -1231,3 +1231,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 21:21:10.186] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [14Aug2025 21:21:10.199] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [14Aug2025 21:21:20.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Nightmare Stalker
+[14Aug2025 21:23:32.096] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Yo mama so fat, she digests her kids]
+[14Aug2025 21:25:16.292] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Peak Dermatology]
+[14Aug2025 21:31:17.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Black or White]
+[14Aug2025 21:31:31.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [A Small Cemetery]
