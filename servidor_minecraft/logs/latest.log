@@ -1187,3 +1187,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 02:29:59.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
 [14Aug2025 02:29:59.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
 [14Aug2025 02:29:59.097] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Aug2025 02:41:16.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:36089] logged in with entity id 2704 at (112.3533892063699, 67.0, -5662.445247023301)
+[14Aug2025 02:41:16.276] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[14Aug2025 02:41:16.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[14Aug2025 02:41:16.446] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
