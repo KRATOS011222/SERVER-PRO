@@ -14635,3 +14635,437 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 15:47:16.786] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [14Aug2025 15:47:29.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 10.605288280962895,0.0,-4.51799821779241
 [14Aug2025 15:47:29.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 12.130691431844184,0.0,-5.144864097156642
+[14Aug2025 15:48:05.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -11.289772439762089,0.0,-2.471436849980819
+[14Aug2025 15:48:05.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -12.915388177485397,0.0,-2.7432617821441454
+[14Aug2025 15:48:05.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -14.488007343692288,0.14215690841257356,-2.994658023390002
+[14Aug2025 15:48:05.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -16.0138517719858,0.4096962100450412,-3.2284087909738446
+[14Aug2025 15:48:05.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -17.498440881439706,0.7878227824974431,-3.4465962507865697
+[14Aug2025 15:48:05.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -18.94664279967708,1.2634873278130385,-3.6510568731464446
+[14Aug2025 15:48:05.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -20.363148973091995,1.8251803651939582,-3.8372128981982314
+[14Aug2025 15:48:05.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -21.748303208536015,2.462750532576507,-3.9702925372093887
+[14Aug2025 15:48:05.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -13.456627380698421,3.0250874202079103,-1.7877055999961158
+[14Aug2025 15:48:05.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -14.787763222022875,3.5210685550988075,-1.6323345244636585
+[14Aug2025 15:48:05.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -16.066339183175785,3.958523916072579,-1.3306009119723967
+[14Aug2025 15:48:36.581] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[14Aug2025 15:48:55.656] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[14Aug2025 15:51:35.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 15:51:36.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 15:51:46.663] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[14Aug2025 15:51:46.676] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[14Aug2025 15:51:46.730] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[14Aug2025 15:51:46.761] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[14Aug2025 15:51:46.772] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[14Aug2025 15:51:46.823] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[14Aug2025 15:51:46.926] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[14Aug2025 15:51:46.994] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[14Aug2025 15:51:47.009] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[14Aug2025 15:51:47.010] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[14Aug2025 15:51:47.010] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[14Aug2025 15:51:47.011] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[14Aug2025 15:51:47.115] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[14Aug2025 15:51:51.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -10.812120109378384,0.0,-4.015664592793655
+[14Aug2025 15:51:58.035] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[14Aug2025 15:52:07.058] [Worker-Main-34/DEBUG] [ModernFix/]: Structure undead_revamp2:tomb1 is being run through DFU (hash 3dc9ec999ef786910a1cd0eafb187e670f36b7d7ea39d719fdc56d0cf9c3d584), this will cause launch time delays
+[14Aug2025 15:52:10.500] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1218) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$250(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdi000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Aug2025 15:52:10.502] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1218) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$250(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdi000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Aug2025 15:52:10.504] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1218) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$250(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zdi000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Aug2025 15:52:21.492] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[14Aug2025 15:52:21.494] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[14Aug2025 15:52:21.495] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[14Aug2025 15:52:21.496] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[14Aug2025 15:52:21.499] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[14Aug2025 15:52:21.500] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[14Aug2025 15:52:21.501] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[14Aug2025 15:52:21.502] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[14Aug2025 15:52:21.503] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[14Aug2025 15:52:21.504] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[14Aug2025 15:52:21.505] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[14Aug2025 15:52:21.507] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[14Aug2025 15:52:21.508] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[14Aug2025 15:52:21.509] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[14Aug2025 15:52:21.509] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[14Aug2025 15:52:21.511] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[14Aug2025 15:52:21.512] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[14Aug2025 15:52:21.513] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[14Aug2025 15:52:21.514] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[14Aug2025 15:52:21.516] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[14Aug2025 15:52:21.518] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[14Aug2025 15:52:21.519] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[14Aug2025 15:52:21.521] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[14Aug2025 15:52:21.523] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[14Aug2025 15:52:21.523] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[14Aug2025 15:52:21.524] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[14Aug2025 15:52:21.528] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[14Aug2025 15:52:21.529] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[14Aug2025 15:52:21.530] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[14Aug2025 15:52:21.531] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[14Aug2025 15:52:21.533] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[14Aug2025 15:52:21.535] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[14Aug2025 15:52:29.439] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2078, y=-31, z=-4613}
+[14Aug2025 15:52:29.637] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2078, y=-31, z=-4613}
+[14Aug2025 15:52:35.147] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2078, y=-31, z=-4613}
+[14Aug2025 15:52:35.157] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2070, y=-29, z=-4612}
+[14Aug2025 15:52:35.158] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2078, y=-31, z=-4613}
+[14Aug2025 15:52:35.312] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:36.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -10.032443060668356,0.0,-0.7883913179775845
+[14Aug2025 15:52:36.404] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2047, y=-29, z=-4598}
+[14Aug2025 15:52:36.405] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2047, y=-29, z=-4593}
+[14Aug2025 15:52:36.405] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4599}
+[14Aug2025 15:52:36.468] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2047, y=-29, z=-4598}
+[14Aug2025 15:52:36.468] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2047, y=-29, z=-4593}
+[14Aug2025 15:52:36.469] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4599}
+[14Aug2025 15:52:36.478] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2075, y=-29, z=-4606}
+[14Aug2025 15:52:36.478] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2070, y=-29, z=-4612}
+[14Aug2025 15:52:36.479] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4590}
+[14Aug2025 15:52:36.479] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2070, y=-29, z=-4599}
+[14Aug2025 15:52:36.541] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:36.546] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4590}
+[14Aug2025 15:52:36.578] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:36.592] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:41.139] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2135, y=-22, z=-4588}
+[14Aug2025 15:52:41.146] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2135, y=-22, z=-4588}
+[14Aug2025 15:52:41.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Ghost Riders In The Sky]
+[14Aug2025 15:52:43.381] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2045, y=-16, z=-4567}
+[14Aug2025 15:52:43.381] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2047, y=-29, z=-4593}
+[14Aug2025 15:52:43.439] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4588}
+[14Aug2025 15:52:43.440] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2075, y=-29, z=-4606}
+[14Aug2025 15:52:43.441] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2073, y=-16, z=-4567}
+[14Aug2025 15:52:43.442] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4590}
+[14Aug2025 15:52:43.442] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2070, y=-29, z=-4599}
+[14Aug2025 15:52:43.452] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2073, y=-16, z=-4567}
+[14Aug2025 15:52:43.454] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2047, y=-29, z=-4593}
+[14Aug2025 15:52:43.843] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:43.853] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4588}
+[14Aug2025 15:52:43.853] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4590}
+[14Aug2025 15:52:43.866] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:43.884] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=-29, z=-4582}
+[14Aug2025 15:52:43.885] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=-29, z=-4587}
+[14Aug2025 15:52:43.886] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2135, y=-22, z=-4588}
+[14Aug2025 15:52:43.898] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=-29, z=-4587}
+[14Aug2025 15:52:43.899] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2135, y=-22, z=-4588}
+[14Aug2025 15:52:54.304] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2035, y=-16, z=-4566}
+[14Aug2025 15:52:54.305] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2045, y=-16, z=-4567}
+[14Aug2025 15:52:54.305] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2036, y=-30, z=-4561}
+[14Aug2025 15:52:54.311] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2053, y=-16, z=-4566}
+[14Aug2025 15:52:54.311] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4561}
+[14Aug2025 15:52:54.312] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2073, y=-16, z=-4567}
+[14Aug2025 15:52:54.313] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2035, y=-16, z=-4566}
+[14Aug2025 15:52:54.313] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:52:54.353] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-16, z=-4566}
+[14Aug2025 15:52:54.353] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4588}
+[14Aug2025 15:52:54.354] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2053, y=-16, z=-4566}
+[14Aug2025 15:52:54.354] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4561}
+[14Aug2025 15:52:54.354] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2073, y=-16, z=-4567}
+[14Aug2025 15:52:54.355] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:52:54.394] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:54.398] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-16, z=-4566}
+[14Aug2025 15:52:54.398] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4588}
+[14Aug2025 15:52:54.403] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:54.633] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=-29, z=-4582}
+[14Aug2025 15:52:54.633] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=-29, z=-4587}
+[14Aug2025 15:52:54.638] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=-29, z=-4587}
+[14Aug2025 15:52:55.516] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:55.520] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2094, y=-31, z=-4559}
+[14Aug2025 15:52:55.521] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2100, y=-29, z=-4546}
+[14Aug2025 15:52:55.653] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:52:55.656] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2094, y=-31, z=-4559}
+[14Aug2025 15:52:55.656] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2100, y=-29, z=-4546}
+[14Aug2025 15:52:55.801] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:52:55.802] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-29, z=-4560}
+[14Aug2025 15:52:55.812] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2032, y=-36, z=-4545}
+[14Aug2025 15:52:55.813] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2030, y=-36, z=-4554}
+[14Aug2025 15:52:55.814] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2017, y=-36, z=-4554}
+[14Aug2025 15:52:55.818] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2036, y=-30, z=-4561}
+[14Aug2025 15:52:55.819] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2050, y=-29, z=-4558}
+[14Aug2025 15:52:55.819] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2033, y=-36, z=-4539}
+[14Aug2025 15:52:55.825] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:52:55.825] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2059, y=-29, z=-4560}
+[14Aug2025 15:52:55.826] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-29, z=-4560}
+[14Aug2025 15:52:55.826] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2050, y=-29, z=-4558}
+[14Aug2025 15:52:55.827] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2060, y=-29, z=-4548}
+[14Aug2025 15:52:55.827] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4545}
+[14Aug2025 15:53:37.382] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 15:53:37.386] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 15:53:43.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 fell from a high place
+[14Aug2025 15:53:43.933] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-1947, y:217, z:-4788, dim:minecraft:overworld]
+[14Aug2025 15:53:45.240] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[14Aug2025 15:54:29.383] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 15:54:29.387] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 15:54:33.879] [dimthread_server_overworld/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14Aug2025 15:54:35.723] [dimthread_server_overworld/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[14Aug2025 15:54:35.724] [dimthread_server_overworld/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[14Aug2025 15:54:39.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was shot by Wither Skeleton
+[14Aug2025 15:54:39.615] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-1942, y:207, z:-4789, dim:minecraft:overworld]
+[14Aug2025 15:54:40.939] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[14Aug2025 15:55:00.692] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:00.737] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:00.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:00.832] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:00.884] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:00.936] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:00.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.042] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.087] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.139] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.237] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.286] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.336] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.383] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.440] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.488] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.538] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.640] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.697] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.738] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.787] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.834] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.892] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.939] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:01.988] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.039] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.092] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.139] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.187] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.233] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.287] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.330] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.686] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:02.742] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:55:05.941] [dimthread_server_overworld/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14Aug2025 15:55:20.225] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 15:55:20.230] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 15:55:21.081] [dimthread_server_overworld/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14Aug2025 15:55:26.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was doomed to fall
+[14Aug2025 15:55:26.199] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-1936, y:63, z:-4796, dim:minecraft:overworld]
+[14Aug2025 15:55:27.752] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[14Aug2025 15:55:47.023] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2035, y=-16, z=-4566}
+[14Aug2025 15:55:47.024] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2045, y=-16, z=-4567}
+[14Aug2025 15:55:47.026] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2036, y=-30, z=-4561}
+[14Aug2025 15:55:47.154] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2053, y=-16, z=-4566}
+[14Aug2025 15:55:47.154] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4561}
+[14Aug2025 15:55:47.156] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2073, y=-16, z=-4567}
+[14Aug2025 15:55:47.157] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2035, y=-16, z=-4566}
+[14Aug2025 15:55:47.157] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:55:47.504] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-16, z=-4566}
+[14Aug2025 15:55:47.505] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4588}
+[14Aug2025 15:55:47.505] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2053, y=-16, z=-4566}
+[14Aug2025 15:55:47.506] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2076, y=-29, z=-4561}
+[14Aug2025 15:55:47.507] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2073, y=-16, z=-4567}
+[14Aug2025 15:55:47.511] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:55:47.722] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:55:47.725] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-16, z=-4566}
+[14Aug2025 15:55:47.726] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4588}
+[14Aug2025 15:55:47.731] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:55:47.803] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=-29, z=-4582}
+[14Aug2025 15:55:47.803] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=-29, z=-4587}
+[14Aug2025 15:55:47.849] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=-29, z=-4587}
+[14Aug2025 15:56:02.943] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:02.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.102] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.157] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.205] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.252] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.293] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.343] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.393] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:03.450] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:56:07.087] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1218) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Aug2025 15:56:07.089] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1218) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Aug2025 15:56:07.089] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1218) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14Aug2025 15:56:11.988] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:56:11.988] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2059, y=-29, z=-4560}
+[14Aug2025 15:56:11.989] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-29, z=-4560}
+[14Aug2025 15:56:11.990] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2050, y=-29, z=-4558}
+[14Aug2025 15:56:11.990] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2060, y=-29, z=-4548}
+[14Aug2025 15:56:11.990] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4545}
+[14Aug2025 15:56:11.997] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2032, y=-36, z=-4545}
+[14Aug2025 15:56:11.998] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2030, y=-36, z=-4554}
+[14Aug2025 15:56:11.998] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2017, y=-36, z=-4554}
+[14Aug2025 15:56:12.004] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2036, y=-30, z=-4561}
+[14Aug2025 15:56:12.005] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2050, y=-29, z=-4558}
+[14Aug2025 15:56:12.005] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2033, y=-36, z=-4539}
+[14Aug2025 15:56:12.010] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-16, z=-4561}
+[14Aug2025 15:56:12.011] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2061, y=-29, z=-4560}
+[14Aug2025 15:56:12.019] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:56:12.024] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2094, y=-31, z=-4559}
+[14Aug2025 15:56:12.025] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2100, y=-29, z=-4546}
+[14Aug2025 15:56:12.162] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=-29, z=-4560}
+[14Aug2025 15:56:12.169] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2094, y=-31, z=-4559}
+[14Aug2025 15:56:12.170] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2100, y=-29, z=-4546}
+[14Aug2025 15:56:14.463] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2020, y=-36, z=-4544}
+[14Aug2025 15:56:14.464] [Worker-Main-25/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2017, y=-36, z=-4554}
+[14Aug2025 15:56:14.673] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-36, z=-4538}
+[14Aug2025 15:56:14.674] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2033, y=-36, z=-4539}
+[14Aug2025 15:56:14.731] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4545}
+[14Aug2025 15:56:14.731] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2058, y=-29, z=-4528}
+[14Aug2025 15:56:14.732] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-36, z=-4538}
+[14Aug2025 15:56:14.733] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2081, y=-29, z=-4529}
+[14Aug2025 15:56:14.740] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2081, y=-29, z=-4529}
+[14Aug2025 15:56:14.741] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2081, y=-29, z=-4534}
+[14Aug2025 15:56:14.741] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4540}
+[14Aug2025 15:56:14.748] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2100, y=-29, z=-4546}
+[14Aug2025 15:56:14.748] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2095, y=-43, z=-4538}
+[14Aug2025 15:56:14.749] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2081, y=-29, z=-4529}
+[14Aug2025 15:56:14.750] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2081, y=-29, z=-4534}
+[14Aug2025 15:56:14.750] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2083, y=-29, z=-4540}
+[14Aug2025 15:56:14.811] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2100, y=-29, z=-4546}
+[14Aug2025 15:56:14.811] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2101, y=-29, z=-4529}
+[14Aug2025 15:56:33.702] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 15:56:35.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 15:56:36.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 15:56:36.187] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 15:56:50.999] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-36, z=-4538}
+[14Aug2025 15:56:51.000] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-29, z=-4520}
+[14Aug2025 15:56:51.000] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2046, y=-29, z=-4514}
+[14Aug2025 15:56:51.001] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2038, y=-16, z=-4521}
+[14Aug2025 15:56:51.007] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4545}
+[14Aug2025 15:56:51.007] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2058, y=-29, z=-4528}
+[14Aug2025 15:56:51.007] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-36, z=-4538}
+[14Aug2025 15:56:51.008] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4527}
+[14Aug2025 15:56:51.008] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2058, y=-36, z=-4510}
+[14Aug2025 15:56:51.009] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-29, z=-4520}
+[14Aug2025 15:56:51.015] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2058, y=-36, z=-4510}
+[14Aug2025 15:56:51.015] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2071, y=-29, z=-4528}
+[14Aug2025 15:56:51.021] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2101, y=-29, z=-4523}
+[14Aug2025 15:56:51.022] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2091, y=-29, z=-4522}
+[14Aug2025 15:56:51.026] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2101, y=-29, z=-4523}
+[14Aug2025 15:56:51.026] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2091, y=-29, z=-4522}
+[14Aug2025 15:56:51.027] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2071, y=-29, z=-4528}
+[14Aug2025 15:57:01.066] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2057, y=-29, z=-4527}
+[14Aug2025 15:57:01.067] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2058, y=-36, z=-4510}
+[14Aug2025 15:57:01.069] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-29, z=-4520}
+[14Aug2025 15:57:01.069] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2059, y=-29, z=-4509}
+[14Aug2025 15:57:01.070] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2063, y=-36, z=-4495}
+[14Aug2025 15:57:01.070] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2060, y=-29, z=-4497}
+[14Aug2025 15:57:01.071] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2050, y=-29, z=-4507}
+[14Aug2025 15:57:01.071] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2062, y=-36, z=-4507}
+[14Aug2025 15:57:01.080] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2058, y=-36, z=-4510}
+[14Aug2025 15:57:01.081] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2071, y=-29, z=-4528}
+[14Aug2025 15:57:01.082] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2063, y=-36, z=-4495}
+[14Aug2025 15:57:01.084] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2072, y=-36, z=-4497}
+[14Aug2025 15:57:01.093] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2091, y=-29, z=-4522}
+[14Aug2025 15:57:01.093] [Worker-Main-46/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2071, y=-29, z=-4528}
+[14Aug2025 15:57:01.237] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2091, y=-29, z=-4522}
+[14Aug2025 15:57:01.547] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2052, y=-29, z=-4520}
+[14Aug2025 15:57:01.548] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2050, y=-29, z=-4507}
+[14Aug2025 15:57:01.549] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2038, y=-16, z=-4521}
+[14Aug2025 15:57:03.461] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2059, y=-29, z=-4509}
+[14Aug2025 15:57:03.461] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2063, y=-36, z=-4495}
+[14Aug2025 15:57:03.462] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2050, y=-29, z=-4494}
+[14Aug2025 15:57:03.462] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2062, y=-36, z=-4494}
+[14Aug2025 15:57:03.486] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2063, y=-36, z=-4495}
+[14Aug2025 15:57:03.486] [Worker-Main-34/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2062, y=-36, z=-4494}
+[14Aug2025 15:57:31.912] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[14Aug2025 15:57:42.796] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 15:57:42.803] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
