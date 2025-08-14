@@ -1191,3 +1191,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 20:45:35.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
 [14Aug2025 20:45:35.522] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
 [14Aug2025 20:47:19.499] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@5eee91c3
+[14Aug2025 20:59:33.021] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 20:59:33.072] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 20:59:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Zombie

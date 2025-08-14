@@ -13062,3 +13062,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 20:48:08.958] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.u_team_core.menu.ForgeFluidContainerMenuDelegator$Factory@5b8e2f9a for class interface info.u_team.u_team_core.menu.FluidContainerMenu$FluidContainerDelegator$Factory
 [14Aug2025 20:48:08.989] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded services [info.u_team.u_team_core.impl.extension.ForgeMenuUtilExtension@7bb47a83] for class interface info.u_team.u_team_core.util.MenuUtil$Extension
 [14Aug2025 20:49:52.845] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[14Aug2025 20:52:19.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 20:52:19.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 20:57:19.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 20:57:19.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 20:58:29.751] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 20:58:29.868] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 20:58:29.907] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 20:59:32.785] [dimthread_server_overworld/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Aug2025 20:59:32.808] [dimthread_server_overworld/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Aug2025 20:59:32.809] [dimthread_server_overworld/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerArmorInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Aug2025 20:59:32.810] [dimthread_server_overworld/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerOffhandInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Aug2025 20:59:33.021] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 20:59:33.072] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 20:59:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Zombie
+[14Aug2025 20:59:55.292] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:247, y:68, z:-5785, dim:minecraft:overworld]
+[14Aug2025 20:59:57.171] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[14Aug2025 21:01:28.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:31.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:32.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:37.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:46.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:46.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:46.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:46.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:48.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:49.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:51.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:52.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:52.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 21:01:52.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
