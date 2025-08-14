@@ -1178,3 +1178,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
 [14Aug2025 14:31:33.571] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@411739c5
+[14Aug2025 14:50:51.796] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Aug2025 14:50:52.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.67.113.180:32897] logged in with entity id 2108 at (-525.0771610462384, 92.0, -5061.666549378224)
+[14Aug2025 14:50:52.341] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[14Aug2025 14:50:52.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[14Aug2025 14:50:52.963] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[14Aug2025 14:50:54.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
+[14Aug2025 14:51:50.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[14Aug2025 14:51:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[14Aug2025 14:51:50.219] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Aug2025 14:54:26.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.67.113.180:41729] logged in with entity id 4284 at (-525.0771610462384, 92.0, -5061.666549378224)
+[14Aug2025 14:54:26.794] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[14Aug2025 14:54:26.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[14Aug2025 14:54:26.884] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[14Aug2025 14:55:23.755] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 14:55:23.804] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 14:56:23.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was killed by magic
