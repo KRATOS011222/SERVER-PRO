@@ -1178,3 +1178,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
 [14Aug2025 00:53:06.045] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@3d9272c8
+[14Aug2025 02:29:00.679] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Aug2025 02:29:00.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:51689] logged in with entity id 2227 at (112.3533892063699, 67.0, -5662.445247023301)
+[14Aug2025 02:29:01.062] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[14Aug2025 02:29:01.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[14Aug2025 02:29:01.321] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[14Aug2025 02:29:05.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14Aug2025 02:29:59.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[14Aug2025 02:29:59.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[14Aug2025 02:29:59.097] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
