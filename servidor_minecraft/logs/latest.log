@@ -1202,3 +1202,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 15:18:31.990] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [14Aug2025 15:18:38.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was doomed to fall by Skeleton
 [14Aug2025 15:26:52.641] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [We do a little trolling...]
+[14Aug2025 15:40:41.898] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 15:40:41.902] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 15:40:48.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was killed by Necromancer's magic missile
+[14Aug2025 15:45:19.384] [Worker-Main-46/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Aug2025 15:46:12.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -8.379980544504292,0.0,7.9398564986486235
+[14Aug2025 15:46:12.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -9.557775535716587,0.0,9.09597377688715
+[14Aug2025 15:46:12.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! -10.732332746422344,0.0,10.255748427608523
+[14Aug2025 15:46:12.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 12.851312571058543,0.0,-12.835256036893043
+[14Aug2025 15:46:12.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 12.851312571058543,0.0,-12.835256036893043
+[14Aug2025 15:46:12.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 12.851312571058543,0.0,-12.835256036893043
+[14Aug2025 15:46:12.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 11.693139197254027,0.0,-11.65697432736124
+[14Aug2025 15:46:12.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 10.535888253101916,0.0,-10.477650648239432
+[14Aug2025 15:46:12.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 9.379450891903161,0.0,-9.297407951939022
+[14Aug2025 15:46:12.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 8.22373111086938,0.0,-8.116354682486417
+[14Aug2025 15:46:38.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 9.078582972365211,-4.820024089767031,3.303515867291935
+[14Aug2025 15:47:13.974] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 15:47:14.755] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 15:47:16.786] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 15:47:29.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 10.605288280962895,0.0,-4.51799821779241
+[14Aug2025 15:47:29.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 12.130691431844184,0.0,-5.144864097156642
