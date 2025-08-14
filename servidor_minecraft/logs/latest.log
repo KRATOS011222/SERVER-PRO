@@ -1363,3 +1363,17 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [14Aug2025 15:56:36.187] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [14Aug2025 15:57:42.796] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [14Aug2025 15:57:42.803] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 15:58:42.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was shot by Missionary
+[14Aug2025 15:58:47.005] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2191, y=-65, z=-4858} but found not block entity block Block{minecraft:air} at location
+[14Aug2025 15:58:47.005] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2191, y=-65, z=-4858}
+[14Aug2025 15:58:47.006] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2191, y=-65, z=-4857} but found not block entity block Block{minecraft:air} at location
+[14Aug2025 15:58:47.006] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2191, y=-65, z=-4857}
+[14Aug2025 15:58:47.006] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2189, y=-65, z=-4858} but found not block entity block Block{minecraft:air} at location
+[14Aug2025 15:58:47.007] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2189, y=-65, z=-4858}
+[14Aug2025 15:58:47.007] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2188, y=-65, z=-4858} but found not block entity block Block{minecraft:air} at location
+[14Aug2025 15:58:47.008] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2188, y=-65, z=-4858}
+[14Aug2025 15:58:47.008] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2192, y=-65, z=-4858} but found not block entity block Block{minecraft:air} at location
+[14Aug2025 15:58:47.008] [dimthread_server_overworld/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2192, y=-65, z=-4858}
+[14Aug2025 16:02:09.899] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 16:02:09.902] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 16:02:16.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 withered away whilst fighting Lifestealer
