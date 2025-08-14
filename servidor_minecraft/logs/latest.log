@@ -1215,3 +1215,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 21:10:48.865] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
 [14Aug2025 21:11:46.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
 [14Aug2025 21:11:46.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[14Aug2025 21:12:54.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.67.113.180:36155] logged in with entity id 9122 at (-670.5277410565326, -17.0, -5304.195036863646)
+[14Aug2025 21:12:54.068] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[14Aug2025 21:12:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[14Aug2025 21:12:54.106] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[14Aug2025 21:13:52.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[14Aug2025 21:13:52.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[14Aug2025 21:17:57.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.67.113.180:55919] logged in with entity id 9170 at (-670.5277410565326, -17.0, -5304.195036863646)
+[14Aug2025 21:17:57.512] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[14Aug2025 21:17:57.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[14Aug2025 21:17:57.554] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[14Aug2025 21:19:37.585] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 21:19:37.588] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 21:19:44.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was doomed to fall by Zombie
+[14Aug2025 21:21:10.186] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 21:21:10.199] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 21:21:20.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Nightmare Stalker
