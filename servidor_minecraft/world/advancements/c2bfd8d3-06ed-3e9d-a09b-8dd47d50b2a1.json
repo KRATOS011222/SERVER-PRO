@@ -9839,6 +9839,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-14 16:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-14 16:10:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-08-14 15:52:41 +0000"
@@ -9866,6 +9878,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-08-14 15:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-14 16:10:37 +0000"
     },
     "done": true
   },
