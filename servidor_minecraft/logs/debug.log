@@ -13873,3 +13873,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 03:23:49.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [14Aug2025 03:28:08.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Aug2025 03:28:08.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 03:33:08.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 03:33:08.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 03:34:39.381] [Worker-Main-122/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[14Aug2025 03:37:55.926] [Worker-Main-107/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[14Aug2025 03:38:08.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 03:38:08.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 03:38:08.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_3_resistance
