@@ -9796,5 +9796,29 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-14 15:07:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-08-14 15:13:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-08-14 15:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-14 15:07:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

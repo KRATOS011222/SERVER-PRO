@@ -13971,3 +13971,131 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 15:06:36.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Aug2025 15:06:49.543] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.integration.curios.impl.CuriosBackpackSlotModUtil@6cd7d927 for class class info.u_team.useful_backpacks.integration.slot_mod.util.BackpackSlotModUtil
 [14Aug2025 15:06:49.544] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming info/u_team/useful_backpacks/inventory/FilterInventory (target of net/minecraft/world/Container)
+[14Aug2025 15:07:38.836] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[14Aug2025 15:07:38.840] [Worker-Main-46/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[14Aug2025 15:07:38.956] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[14Aug2025 15:07:39.018] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[14Aug2025 15:07:41.114] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[14Aug2025 15:07:41.147] [Worker-Main-34/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Aug2025 15:07:41.148] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Aug2025 15:07:41.148] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Aug2025 15:07:41.149] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Aug2025 15:07:41.150] [Worker-Main-34/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:41.158] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Aug2025 15:07:42.149] [Worker-Main-25/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[14Aug2025 15:07:42.153] [Worker-Main-25/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[14Aug2025 15:07:42.154] [Worker-Main-25/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[14Aug2025 15:07:42.154] [Worker-Main-25/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[14Aug2025 15:07:42.159] [Worker-Main-25/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[14Aug2025 15:07:42.187] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[14Aug2025 15:07:42.188] [Worker-Main-25/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[14Aug2025 15:08:44.003] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[14Aug2025 15:08:44.024] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[14Aug2025 15:08:44.049] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[14Aug2025 15:08:44.082] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[14Aug2025 15:08:47.027] [Worker-Main-46/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[14Aug2025 15:08:51.479] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[14Aug2025 15:08:52.891] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[14Aug2025 15:08:54.017] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[14Aug2025 15:09:17.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:17.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:17.505] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:17.551] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:17.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:17.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:17.686] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:17.727] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:09:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Rusted Root]
+[14Aug2025 15:11:35.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 15:11:35.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 15:13:33.236] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.281] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.331] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.534] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.584] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.633] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.684] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.834] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.941] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:33.989] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.034] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.130] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.288] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.381] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.436] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.483] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.531] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.688] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.741] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.782] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.832] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.883] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.934] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:34.985] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.031] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.085] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.136] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.187] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.230] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.282] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.331] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.388] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.432] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.490] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.531] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.636] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.684] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.736] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.787] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.839] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.939] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:35.992] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.040] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.136] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.186] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.231] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.281] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.388] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.438] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.485] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.537] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.582] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.632] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.684] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.731] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.786] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:36.834] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Aug2025 15:13:41.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Aug2025 15:14:20.822] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 15:14:20.842] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 15:14:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was energized by a dragon
+[14Aug2025 15:14:33.097] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:-862, y:93, z:-4801, dim:minecraft:overworld]
+[14Aug2025 15:14:34.745] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[14Aug2025 15:16:35.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 15:16:35.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 15:17:06.544] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of prehistoricfauna:time_temple

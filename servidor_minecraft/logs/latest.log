@@ -1194,3 +1194,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 14:55:23.755] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [14Aug2025 14:55:23.804] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [14Aug2025 14:56:23.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was killed by magic
+[14Aug2025 15:09:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Rusted Root]
+[14Aug2025 15:14:20.822] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 15:14:20.842] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 15:14:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was energized by a dragon
