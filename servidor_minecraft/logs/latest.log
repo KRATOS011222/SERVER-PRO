@@ -1207,3 +1207,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 02:58:04.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of grillo1320) moved too quickly! 9.868439850500181,1.0044883287852713,5.152791532114861
 [14Aug2025 02:59:53.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
 [14Aug2025 02:59:54.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[14Aug2025 03:20:04.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Gone Bananas!]
+[14Aug2025 03:20:18.019] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Eye of the Tiger]
+[14Aug2025 03:21:03.182] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 03:21:03.199] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 03:21:11.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by The Hunter
+[14Aug2025 03:23:18.327] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[14Aug2025 03:23:18.331] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[14Aug2025 03:23:25.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 blew up
+[14Aug2025 03:23:41.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Unfunny dad jokes]
+[14Aug2025 03:23:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [First big catch of the month!]
