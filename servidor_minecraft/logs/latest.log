@@ -1387,3 +1387,5 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [14Aug2025 16:17:14.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
 [14Aug2025 16:17:39.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [14Aug2025 16:17:57.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[14Aug2025 16:20:49.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[14Aug2025 16:20:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
