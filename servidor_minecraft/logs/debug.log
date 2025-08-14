@@ -14321,3 +14321,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [14Aug2025 15:26:49.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [14Aug2025 15:26:52.641] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [We do a little trolling...]
 [14Aug2025 15:27:00.639] [dimthread_server_overworld/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14Aug2025 15:28:20.644] [dimthread_server_overworld/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[14Aug2025 15:31:36.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 15:31:36.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 15:32:18.543] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[14Aug2025 15:32:18.557] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[14Aug2025 15:32:19.847] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal10
+[14Aug2025 15:32:50.890] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[14Aug2025 15:36:35.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Aug2025 15:36:36.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Aug2025 15:37:02.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
