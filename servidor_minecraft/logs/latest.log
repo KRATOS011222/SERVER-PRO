@@ -1192,3 +1192,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [15Aug2025 02:39:50.831] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
 [15Aug2025 02:39:50.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
 [15Aug2025 02:39:50.935] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[15Aug2025 03:02:32.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! 5.156929153454712,-0.15817358111578983,-8.888495991006494
+[15Aug2025 03:03:08.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! -8.967412255237832,3.3997412669806977,3.19437466850286
+[15Aug2025 03:03:25.106] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
