@@ -1202,3 +1202,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [15Aug2025 03:14:26.259] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [15Aug2025 03:14:26.268] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [15Aug2025 03:14:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Skeleton
+[15Aug2025 03:24:24.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[15Aug2025 03:24:32.614] [Worker-Main-34/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Aug2025 03:25:12.046] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29825, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.046] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29826, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.046] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29827, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.047] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29828, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.047] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29829, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:27:28.583] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

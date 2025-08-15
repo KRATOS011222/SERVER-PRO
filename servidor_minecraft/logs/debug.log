@@ -13936,3 +13936,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [15Aug2025 03:17:41.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [15Aug2025 03:17:42.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [15Aug2025 03:17:43.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Aug2025 03:22:13.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:22:13.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 03:24:13.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[15Aug2025 03:24:13.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[15Aug2025 03:24:13.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[15Aug2025 03:24:13.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[15Aug2025 03:24:13.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[15Aug2025 03:24:24.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[15Aug2025 03:24:32.613] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:camp_bostrox2
+[15Aug2025 03:24:32.614] [Worker-Main-34/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Aug2025 03:24:55.361] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[15Aug2025 03:24:59.544] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[15Aug2025 03:24:59.563] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[15Aug2025 03:25:03.939] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal5
+[15Aug2025 03:25:12.046] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29825, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.046] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29826, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.046] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29827, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.047] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29828, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:12.047] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29829, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
+[15Aug2025 03:25:57.396] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[15Aug2025 03:25:57.416] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[15Aug2025 03:25:57.417] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[15Aug2025 03:26:31.820] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[15Aug2025 03:26:31.857] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[15Aug2025 03:26:31.921] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[15Aug2025 03:26:31.923] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[15Aug2025 03:26:32.142] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[15Aug2025 03:26:32.144] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_2 is being run through DFU (hash 21e83b1170d130d92bcfe5439c1418162bc7bead365ee48366543caa05df50db), this will cause launch time delays
+[15Aug2025 03:26:32.158] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_3 is being run through DFU (hash dc7ad5f772feeefdec83c877a8e9805d0ff6ad7ae6b852e7fdca4e06051538ab), this will cause launch time delays
+[15Aug2025 03:26:32.177] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_4 is being run through DFU (hash 5b88508f035a2a021b620463f9bc58546e95f50471753329928c1513c0189bf3), this will cause launch time delays
+[15Aug2025 03:26:32.192] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_1 is being run through DFU (hash 7b21fdffa7a9a5e0e199ee3fec061057c30bcb8da0c3e7736def8138a8cfea17), this will cause launch time delays
+[15Aug2025 03:26:32.212] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_roots_0 is being run through DFU (hash 962578fc7708746b628dca27fc3a85a519af2f79f85afd8bffffb1138e260900), this will cause launch time delays
+[15Aug2025 03:26:32.218] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_1 is being run through DFU (hash 4b0d122034d49d15b17168a012434b4f0184fe803ad83ad9822a65ee2b333ced), this will cause launch time delays
+[15Aug2025 03:26:32.400] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_0 is being run through DFU (hash e8b079de93e43a9fffc70c7061ec60a545625d1d837c700e9d23afe0b04f9d93), this will cause launch time delays
+[15Aug2025 03:26:32.425] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_2 is being run through DFU (hash 0b6bd83133060f95020b74da9d341154182afccc938e0168c6d6d1536023c600), this will cause launch time delays
+[15Aug2025 03:26:32.440] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_0 is being run through DFU (hash 9cc06412e75087b92ed78b7dc654702e658cb5ce732ffc856406f4b7ae888920), this will cause launch time delays
+[15Aug2025 03:27:15.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:27:15.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 03:27:28.583] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Aug2025 03:27:37.565] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[15Aug2025 03:27:37.582] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[15Aug2025 03:27:37.586] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[15Aug2025 03:27:37.588] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[15Aug2025 03:27:37.601] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[15Aug2025 03:27:37.622] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[15Aug2025 03:27:37.640] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[15Aug2025 03:27:45.372] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[15Aug2025 03:28:13.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house

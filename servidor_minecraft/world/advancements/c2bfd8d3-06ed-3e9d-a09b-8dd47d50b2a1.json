@@ -389,6 +389,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2025-08-15 03:24:08 +0000",
       "minecraft:taiga": "2025-08-01 19:50:32 +0000",
       "minecraft:eroded_badlands": "2025-08-01 22:02:40 +0000",
       "minecraft:cherry_grove": "2025-08-05 19:25:47 +0000",
@@ -415,6 +416,7 @@
       "minecraft:ocean": "2025-08-01 21:53:44 +0000",
       "minecraft:jungle": "2025-08-08 14:35:30 +0000",
       "minecraft:warm_ocean": "2025-08-08 14:37:14 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-15 03:23:31 +0000",
       "minecraft:deep_dark": "2025-08-04 01:10:44 +0000",
       "minecraft:meadow": "2025-08-01 19:52:11 +0000",
       "minecraft:savanna": "2025-08-01 22:02:20 +0000",
@@ -9930,6 +9932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-08-15 03:23:47 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/veridium_dart": {
     "criteria": {
       "has_feather": "2025-08-15 03:02:07 +0000"
@@ -9954,6 +9962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-08-15 03:23:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-08-15 03:02:07 +0000"
@@ -9966,6 +9980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-15 03:23:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-08-15 03:02:07 +0000"
@@ -9975,6 +9995,12 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-08-15 03:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-08-15 03:23:47 +0000"
     },
     "done": true
   },
