@@ -1210,3 +1210,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [15Aug2025 03:25:12.047] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29828, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
 [15Aug2025 03:25:12.047] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/29829, l='ServerLevel[world]', x=160.81, y=28.78, z=-3633.26]
 [15Aug2025 03:27:28.583] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Aug2025 03:28:58.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[15Aug2025 03:29:50.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[15Aug2025 03:29:50.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game

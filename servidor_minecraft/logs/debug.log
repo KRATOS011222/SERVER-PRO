@@ -13984,3 +13984,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [15Aug2025 03:27:37.640] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
 [15Aug2025 03:27:45.372] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
 [15Aug2025 03:28:13.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[15Aug2025 03:28:50.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[15Aug2025 03:28:52.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[15Aug2025 03:28:58.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved wrongly!
+[15Aug2025 03:29:50.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[15Aug2025 03:29:50.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[15Aug2025 03:32:15.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:32:15.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Aug2025 03:37:15.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Aug2025 03:37:15.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
