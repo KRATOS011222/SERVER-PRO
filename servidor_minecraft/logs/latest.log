@@ -1178,3 +1178,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
 [15Aug2025 02:22:09.473] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@58163c2b
+[15Aug2025 02:37:42.450] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[15Aug2025 02:37:42.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.67.113.180:55157] logged in with entity id 2103 at (-486.6238890804018, 96.0, -5103.699999988079)
+[15Aug2025 02:37:43.015] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[15Aug2025 02:37:43.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[15Aug2025 02:37:43.542] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[15Aug2025 02:37:44.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[15Aug2025 02:38:01.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[15Aug2025 02:38:40.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[15Aug2025 02:38:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[15Aug2025 02:38:40.992] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Aug2025 02:39:50.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.67.113.180:36871] logged in with entity id 2550 at (-486.6238890804018, 96.0, -5103.699999988079)
+[15Aug2025 02:39:50.831] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[15Aug2025 02:39:50.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[15Aug2025 02:39:50.935] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
