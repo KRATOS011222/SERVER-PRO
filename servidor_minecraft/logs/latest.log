@@ -1195,3 +1195,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [15Aug2025 03:02:32.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! 5.156929153454712,-0.15817358111578983,-8.888495991006494
 [15Aug2025 03:03:08.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! -8.967412255237832,3.3997412669806977,3.19437466850286
 [15Aug2025 03:03:25.106] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Aug2025 03:07:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [To be or not to be]
+[15Aug2025 03:12:09.223] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[15Aug2025 03:12:09.231] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[15Aug2025 03:12:17.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 went off with a bang
+[15Aug2025 03:14:26.259] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[15Aug2025 03:14:26.268] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[15Aug2025 03:14:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Skeleton
